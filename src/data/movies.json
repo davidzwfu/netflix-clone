@@ -1,0 +1,1434 @@
+{
+  "data": [
+      {
+          "videoId": 81726698,
+          "title": "Golden Kamuy",
+          "contentWarning": null,
+          "liveEvent": null,
+          "__typename": "Movie",
+          "badges": [
+              "NONE"
+          ],
+          "watchStatus": "NEVER_WATCHED",
+          "runtimeSec": 7746,
+          "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+          },
+          "textEvidence": [
+              {
+                  "key": "UNKNOWN|81726698_TAGS|en-CA",
+                  "text": "Exciting, Epic, Treasure Hunt, 1900s, Japanese, Based on Manga, Period Piece, Adventure, Movie",
+                  "__typename": "TagList"
+              }
+          ],
+          "isAvailable": true,
+          "isPlayable": true,
+          "availabilityStartTime": "2024-05-19T07:00:00.000Z",
+          "unplayableCauses": [],
+          "interactiveVideoData": {
+              "interactiveSummaryFeatures": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "isInPlaylist": true,
+          "isInRemindMeList": false,
+          "playlistActions": [
+              "DELETE_FROM_PLAYLIST"
+          ],
+          "unifiedEntityId": "Video:81726698",
+          "thumbRating": "THUMBS_UNRATED",
+          "supportsInteractiveExperiences": false,
+          "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "latestYear": 2024,
+          "matchScore": {
+              "isNewForPvr": false,
+              "matchPercent": 97,
+              "__typename": "VideoMatchScore"
+          },
+          "displayRuntimeSec": 7746,
+          "contentAdvisory": {
+              "boardId": 69,
+              "boardName": "NFLX",
+              "certificationRatingId": 925,
+              "maturityLevel": 110,
+              "maturityDescription": "Recommended for ages 16 and up",
+              "certificationValue": "16+",
+              "i18nReasonsText": "violence",
+              "videoSpecificRatingReason": null,
+              "reasons": [
+                  {
+                      "iconId": 985,
+                      "level": "",
+                      "text": "violence",
+                      "__typename": "ContentAdvisoryReason"
+                  }
+              ],
+              "__typename": "ContentAdvisory"
+          },
+          "playbackBadges": [
+              "VIDEO_HD",
+              "OFFLINE_DOWNLOAD_AVAILABLE",
+              "VIDEO_SD",
+              "AUDIO_FIVE_DOT_ONE",
+              "TEXT_CLOSED_CAPTIONS"
+          ],
+          "mostLikedMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "taglineMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "thumbsRating": "THUMBS_UNRATED",
+          "boxart": {
+              "key": "sdp|fe1d02e0-fe35-11ee-b149-1265b2412b49|en|dNL,BADGE|recently.added|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcyI_4glbXH6B3cql3Eu6s_oW3AzOULduBWsuZiCoTWcCGfyEenUvUm8LDxoE_IjkeRjIRuNDc4AiEz4qPi1AjC60QXBkuyA_jbPYTP6_yOC-9R6j52Cd3EUojOfJ8xFDauREy-2mtpn-myLEgDhhtwCs5txKrXSdQRuWAqnV4djdGrzc_xpbDrUapS8yJUXPUrJIMYLuYmRPPPHaE09ui3LppNJ_VKLYoPJIQBEcjlctxXK1br1O6qrdOv-ouFHZS8raEImwl1iwmkBJChsALrtVvzzHJsU03zbAZpOIMRgxLU2hXMu6LjzQh4xWAhgyTYAhagtOB2jzaR2Uy9Pbjhs7SImD8RGAxIO_7hh7YTRtaVRuJo.jpg?r=fda",
+              "width": 342,
+              "height": 192,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "boxartHighRes": {
+              "key": "sdp|fe1d02e0-fe35-11ee-b149-1265b2412b49|en|dNL,BADGE|recently.added|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ1vJlXK5V2MU-X7RwWuZgnj_xRyQ2i6GN27sFBQePO7Qn6DNLFTvmn8g1l0FuQ7_w5N5m3vwzE-wNaRzQeaGDwWsyCiSNe4FFVl4qraHdkGoblZ08av7V_GeXoq271ILU0nI-lpazMwyPi9ZnkVHQpLtcIb5IWSKF9eIEtoWf9i4YM0FWY9__wxVpElM-Au3L-Hnizuz9_6RyCzwH-3JlY4L03l04aed2ZYywRDrRMBlUJP_YmZ3gmxfuzYcfZfINQ78CjvvmDRVLs04XviZbpGWVXpOODU7nkNZHlm6hmtnDJTvUTjw6lnfrinE0X89LTovj3kUF_O6FCl8cYpq-Jhyz4F0Cpb3QqJwTI01y8xFHHdADIA.jpg?r=fda",
+              "width": 665,
+              "height": 375,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "liveNow": null,
+          "logoArtwork": {
+              "key": "LOGO_BRANDED_HORIZONTAL|8b266320-f7c9-11ee-9239-0e3119d49267:2f1a8d60-7e55-11e9-a790-12828b20a2f0|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfgQP4oq4K3X6_RoGOGYqn-f_ieSSia2rJ2GwYLCtdo8LZIRpcxM8OBFw7SUb-NPTlQn7pt24llPwRHDd71SIEYmMu7buhHR130IKX9NSpf55TSf53TUt7qkH5CImrSBoM3Lc1whJOxTE8JdVWW1tkuWhGIyLfWeiD8TyUcUkuqHkXG1T0o4.webp?r=617",
+              "width": 625,
+              "height": 250,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "storyArt": {
+              "key": "StoryArt|45f1e080-fe37-11ee-ae84-0affd9b56b8d|en|dNt",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYrAhMzLtRIgFIEYH3GQQ3TV_IjfQ--MwaZibfAvQxH-wIruPuwkzJJq9Bxt9CXAI5OfUb5RZ4cfuM4_CcKnZAi_SXcGomqJWElo.webp?r=eba",
+              "width": 848,
+              "height": 477,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0.5594,
+                  "y": 0.4361,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "promoVideo": {
+              "id": 81778903,
+              "computeId": "browse|81778903|AE|dNL",
+              "offset": 0,
+              "video": {
+                  "videoId": 81778903,
+                  "__typename": "Supplemental"
+              },
+              "__typename": "PromoVideo"
+          }
+      },
+      {
+          "videoId": 81773839,
+          "title": "The Atypical Family",
+          "contentWarning": null,
+          "nextLiveEvent": null,
+          "__typename": "Show",
+          "currentEpisode": {
+              "videoId": 81773841,
+              "title": "Episode 1",
+              "number": 1,
+              "hideEpisodeNumbers": false,
+              "parentSeason": {
+                  "videoId": 81773840,
+                  "number": 1,
+                  "title": "Limited Series",
+                  "numberLabel": "S1",
+                  "hideEpisodeNumbers": false,
+                  "__typename": "Season"
+              },
+              "badges": [
+                  "NONE"
+              ],
+              "__typename": "Episode",
+              "watchStatus": "NEVER_WATCHED",
+              "runtimeSec": 4209,
+              "bookmark": {
+                  "position": null,
+                  "interactivePlaybackProgressPercentage": null,
+                  "__typename": "VideoBookmark"
+              },
+              "interactiveVideoData": {
+                  "interactiveSummaryFeatures": null,
+                  "__typename": "InteractiveVideoData"
+              }
+          },
+          "badges": [
+              "NONE"
+          ],
+          "watchStatus": "NEVER_WATCHED",
+          "textEvidence": [
+              {
+                  "key": "UNKNOWN|81773839_TAGS|en-CA",
+                  "text": "Romantic, Drama, Time Travel, Korean, Con Game, Limited Series",
+                  "__typename": "TagList"
+              }
+          ],
+          "isAvailable": true,
+          "isPlayable": true,
+          "availabilityStartTime": "2024-05-04T15:00:00.000Z",
+          "unplayableCauses": [],
+          "isInPlaylist": true,
+          "isInRemindMeList": false,
+          "playlistActions": [
+              "DELETE_FROM_PLAYLIST",
+              "ADD_REMIND_ME"
+          ],
+          "unifiedEntityId": "Video:81773839",
+          "thumbRating": "THUMBS_UNRATED",
+          "supportsInteractiveExperiences": false,
+          "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "latestYear": 2024,
+          "matchScore": {
+              "isNewForPvr": false,
+              "matchPercent": 98,
+              "__typename": "VideoMatchScore"
+          },
+          "numSeasonsLabel": "Limited Series",
+          "seasons": {
+              "totalCount": 1,
+              "__typename": "SeasonsConnection"
+          },
+          "contentAdvisory": {
+              "boardId": 69,
+              "boardName": "NFLX",
+              "certificationRatingId": 925,
+              "maturityLevel": 110,
+              "maturityDescription": "Recommended for ages 16 and up",
+              "certificationValue": "16+",
+              "i18nReasonsText": "substances",
+              "videoSpecificRatingReason": null,
+              "reasons": [
+                  {
+                      "iconId": 989,
+                      "level": "",
+                      "text": "substances",
+                      "__typename": "ContentAdvisoryReason"
+                  }
+              ],
+              "__typename": "ContentAdvisory"
+          },
+          "playbackBadges": [
+              "VIDEO_HD",
+              "OFFLINE_DOWNLOAD_AVAILABLE",
+              "VIDEO_SD"
+          ],
+          "mostLikedMessages": [
+              {
+                  "tagline": "New Episode Coming Sunday",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "taglineMessages": [
+              {
+                  "tagline": "New Episode Coming Sunday",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "thumbsRating": "THUMBS_UNRATED",
+          "boxart": {
+              "key": "sdp|6711f3b0-03ad-11ef-8feb-0efc901e4709|en|dNL|81773840,BADGE|newcontent:new.episode.watch.now|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb1k9fNkxR2SJRDMmyNpXDa5FuhuHngrEunSmBcGLFIyXbGHUG-sSbchBl58qAjCEhx7ieftnYY2DzS1sqHZwcP4CEt5xwW2mCxijiWnHld3wxASSkP1gu44tKBCG_der8TUocd27pVKjvWVSAqeyg4IVELz1ddrbXMBMhQmjA2ekptDiPjFUEwIe1OtN70xa4ueckt81OD8-8V59ECxcfHqWwhAbQbDSkHtnZ0NN8AWk7DR7eO9FB1nMqR9aLBB_eaasHbLAtObewTkchzPQEBL5R69EQv1LE2e-GNNCb6evbGyui_mZW4Z-AA1W5mliXBfbkXEfaetZsnjwEpp5HVxe6E3qUnXPNj2Gg0nUX2H15Xm3wEA5FX4ORwR1Gtl3amAbcJ2D2jjXkq8YYPrF6yIzfnupoxkYWsURhjDXmk_ITtHlN9rq6-Z_6bKDhUGwxejyAs2oFucxWQ0wzkIFxfr4J-dLpqjC1Qae3tvZ_pvEJyr1FyWiYYrEERc0L1M5JQ.jpg?r=221",
+              "width": 342,
+              "height": 192,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "boxartHighRes": {
+              "key": "sdp|6711f3b0-03ad-11ef-8feb-0efc901e4709|en|dNL|81773840,BADGE|newcontent:new.episode.watch.now|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYT6i-N-DJlkbaBwEknZtpLQ8lxpUPENVn2Dia1Bq3FwIMDdPhJInPkIULdoduribGs0Xq5di-pwUYs4T7E7C5P9hT3jodiA-zZsno9uPVW80oMAwNN99sWknTtR6m8rjwHuQng3w0sx_yFTPq5f7ml735pSk4rWzL54dcsGMGXqm1Yap6apTRFJC96Tcm8QM47ZKY4LPc3NuyCuOy3bnh7HSHok8gNMjcUQuuzdezwmAtymWEO9iyYYY3BPGWO_D-ryhxtKxMjp1J8wei0a98BIhfI0V3lPUFEfzmMOPM1jwkewwPRFXdRE_Dj1iZZaLDTA0q2vGs6FhxIqLMyWZtmw4825Gm0EAPrSLXTaHyl1Ma9M6y5w4tkTZtLzgjt9E89mtFNJ-G29j643FxcFY3dkSRLEYIjT84iv6-dp-iCdq_y_5iR3NcR-BubxeMiAQUpQy4aMJxoWFEprNg7aL5v4xewIX_t34nunQ_iR8nK6xcgy_zjeurBxYQ-XYyWZC0SJ.jpg?r=221",
+              "width": 665,
+              "height": 375,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "liveNow": null,
+          "logoArtwork": {
+              "key": "LOGO_BRANDED_HORIZONTAL|67b8e2a0-f576-11ee-b155-12751026d895:6bc1ad90-7e71-11e9-a86a-0ef4f0f37a06|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABUt4MZQeGZm6O91EMKW_9ZxGQNL_dstA_uQgqydl4qmtQp7CH-9ntM2-BxXc8Uh-vocp6d27YEu_MTY-zSX2AnKnGEQGKfOEJPTLF4ghflx6wXj-W7n-rM_-DTIz9O8qd8yfjrokC2GY4yyKNjtw0i_WB8J9U_rW1ADWIQjU60L6SgiNz7Ez.webp?r=307",
+              "width": 625,
+              "height": 250,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "storyArt": {
+              "key": "StoryArt|fb460e80-03ae-11ef-b29f-127f02790941|en|dNt|81773840",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdHon6Fa8p6qsZl1Zt8RdeIRZW_moAQDZe0WOeXpB7o0yDvn4Ov6fv60LVGLjzYsr3ZLCh232PpMlJHjy785bfsYwClmhBL1XX6q.webp?r=017",
+              "width": 848,
+              "height": 477,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0.5039,
+                  "y": 0.3379,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "promoVideo": {
+              "id": 81776589,
+              "computeId": "browse|81776589|AE|dNL",
+              "offset": 0,
+              "video": {
+                  "videoId": 81776589,
+                  "__typename": "Supplemental"
+              },
+              "__typename": "PromoVideo"
+          }
+      },
+      {
+          "videoId": 81707950,
+          "title": "Queen of Tears",
+          "contentWarning": null,
+          "nextLiveEvent": null,
+          "__typename": "Show",
+          "currentEpisode": {
+              "videoId": 81726577,
+              "title": "Episode 2",
+              "number": 2,
+              "hideEpisodeNumbers": false,
+              "parentSeason": {
+                  "videoId": 81707951,
+                  "number": 1,
+                  "title": "Limited Series",
+                  "numberLabel": "",
+                  "hideEpisodeNumbers": false,
+                  "__typename": "Season"
+              },
+              "badges": [
+                  "NONE"
+              ],
+              "__typename": "Episode",
+              "watchStatus": "STARTED",
+              "runtimeSec": 5384,
+              "bookmark": {
+                  "position": 3814,
+                  "interactivePlaybackProgressPercentage": null,
+                  "__typename": "VideoBookmark"
+              },
+              "interactiveVideoData": {
+                  "interactiveSummaryFeatures": null,
+                  "__typename": "InteractiveVideoData"
+              }
+          },
+          "badges": [
+              "NONE"
+          ],
+          "watchStatus": "STARTED",
+          "textEvidence": [
+              {
+                  "key": "UNKNOWN|81707950_TAGS|en-CA",
+                  "text": "Swoonworthy, Romantic, Comedy, Marriage, Korean, Critically Acclaimed, Limited Series",
+                  "__typename": "TagList"
+              }
+          ],
+          "isAvailable": true,
+          "isPlayable": true,
+          "availabilityStartTime": "2024-03-09T14:20:00.000Z",
+          "unplayableCauses": [],
+          "isInPlaylist": true,
+          "isInRemindMeList": false,
+          "playlistActions": [
+              "DELETE_FROM_PLAYLIST"
+          ],
+          "unifiedEntityId": "Video:81707950",
+          "thumbRating": "THUMBS_UNRATED",
+          "supportsInteractiveExperiences": false,
+          "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "latestYear": 2024,
+          "matchScore": null,
+          "numSeasonsLabel": "16 Episodes",
+          "seasons": {
+              "totalCount": 1,
+              "__typename": "SeasonsConnection"
+          },
+          "contentAdvisory": {
+              "boardId": 69,
+              "boardName": "NFLX",
+              "certificationRatingId": 924,
+              "maturityLevel": 80,
+              "maturityDescription": "Recommended for ages 13 and up",
+              "certificationValue": "13+",
+              "i18nReasonsText": null,
+              "videoSpecificRatingReason": null,
+              "reasons": [],
+              "__typename": "ContentAdvisory"
+          },
+          "playbackBadges": [
+              "VIDEO_HD",
+              "OFFLINE_DOWNLOAD_AVAILABLE",
+              "VIDEO_SD",
+              "TEXT_CLOSED_CAPTIONS"
+          ],
+          "mostLikedMessages": [
+              {
+                  "tagline": "Watch the Season Finale Now",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "taglineMessages": [
+              {
+                  "tagline": "Watch the Season Finale Now",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "thumbsRating": "THUMBS_UNRATED",
+          "boxart": {
+              "key": "sdp|8ada6780-d6c3-11ee-b919-122857d584df|en|dNL|81707951,BADGE|newcontent:new.episode.watch.now|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVgEKEuYeYXrEZUbQbblIrudInkGm4uUnaD2bVzmqKZukehlObJKA6Hx3KEJ7nEQcvz139Q1Frn_gK-d73OIez41zbs8MMSkuBjib9lPJXgJbjAVKDVGPGs9TZL_y2zNCXVcK1SNeqBSYSRUBpkYjzkQXXpjs0dlP05VACTID1nhYVVJz4TFqlgJZ6TFocSzLWtGpqslbmytI1DYOactsbzW2DDmIt4cxINwWNJMnger_OkxEvp0GDwsnpCj26huHUbZWH5rxyI1hXNRg-v2wjQd9ir7ll4E6E30iydV6OC-pQHPhUaKvEJlaeHGFAN91JOwKSxcy8AokqRVEp6AVzDpMChD-ct1AQzIgVkPwZN7k-LUAspHHuDg9JCFa5nSY2Ob-Gqfv3RD9Rzn8TLxPMEoYjaUMNzxuryF_eec1_2dFOTSlLvHiQHZNjOov-PFfAZqBJdy.jpg?r=5f2",
+              "width": 342,
+              "height": 192,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "boxartHighRes": {
+              "key": "sdp|8ada6780-d6c3-11ee-b919-122857d584df|en|dNL|81707951,BADGE|newcontent:new.episode.watch.now|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABULY1Jdc_f90muJdAt5muUCbUx1TJiXxkz7bWglul6tyanzDrxkejtFvAVplWxLc4kEOFHfvqG_1Iuu8uGQUGff3LX9TbT2hlPTyFNECe7wu7EwPLsa_wmyqVC1gCvhb0QSLt14UvoBe-3Bihn54I04Uk17Mnm8tAfVyI_ZWx07bFw27zRVR0XNrORBlNg1UAvJyC6GdoZipH6AdzoKjHkmxCOF4KQSE_sBC6k_TjIWUOWNeLiWt4uL_tqBZGkhSneI_AXjXJRB1HpvTduEH2sumecH6f5VHnEYGG88IdYqW32dpmkReRnlVn0fd-WrO3eR6IE5Su1vp61Mu1fpFYOTI6K_vA5lhoqx9fs63ugmkEbeZ0hqmLDJRJWIxoCXQZ-aHtoI1aTXgs641VAxkDyjRbGdtZqx-ZNhtsGzApUqzNOuY0nb0DflsGfLSM9bX0IWDNXJ6Jg.jpg?r=5f2",
+              "width": 665,
+              "height": 375,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "liveNow": null,
+          "logoArtwork": {
+              "key": "LOGO_BRANDED_HORIZONTAL|5ae97330-c4a9-11ee-a079-123dc585507d:6bc1ad90-7e71-11e9-a86a-0ef4f0f37a06|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYxuxaMPDeSz-olxjr9oz2rF3BCfL591J3kp6Bre-6qzhVlAjYuMcVfsh2z7Fsez8bMpL_EJ--B0GSo3js0LDaRnn7yS3JB7lQkwSMUlpuSu4gtG_W8fFxQnvjwQWYLhj1SvVVbN1BSM4P7WPJdkzYvacpn32LhWym96WV4Gc4S4i0fKvtZc.webp?r=84f",
+              "width": 625,
+              "height": 250,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "storyArt": {
+              "key": "StoryArt|552fbcb0-d6c4-11ee-b919-122857d584df|en|dNt|81707951",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaJuUHU2hEBciWvuhBbw4bvAKADqOXcmEbZz3VZcgOSy2PTyIOd_ZsKu5WI5Ssd-SQwUuKKK8UABLN75D-5mWYvM8Tr6aK3KMfLZ.webp?r=5ec",
+              "width": 848,
+              "height": 477,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0.5826,
+                  "y": 0.4046,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "promoVideo": {
+              "id": 81765383,
+              "computeId": "browse|81765383|AE|dNL",
+              "offset": 0,
+              "video": {
+                  "videoId": 81765383,
+                  "__typename": "Supplemental"
+              },
+              "__typename": "PromoVideo"
+          }
+      },
+      {
+          "videoId": 81679967,
+          "title": "Dead Boy Detectives",
+          "contentWarning": null,
+          "nextLiveEvent": null,
+          "__typename": "Show",
+          "currentEpisode": {
+              "videoId": 81686317,
+              "title": "The Case of Crystal Palace",
+              "number": 1,
+              "hideEpisodeNumbers": false,
+              "parentSeason": {
+                  "videoId": 81679968,
+                  "number": 1,
+                  "title": "Dead Boy Detectives",
+                  "numberLabel": "",
+                  "hideEpisodeNumbers": false,
+                  "__typename": "Season"
+              },
+              "badges": [
+                  "NONE"
+              ],
+              "__typename": "Episode",
+              "watchStatus": "NEVER_WATCHED",
+              "runtimeSec": 3384,
+              "bookmark": {
+                  "position": null,
+                  "interactivePlaybackProgressPercentage": null,
+                  "__typename": "VideoBookmark"
+              },
+              "interactiveVideoData": {
+                  "interactiveSummaryFeatures": null,
+                  "__typename": "InteractiveVideoData"
+              }
+          },
+          "badges": [
+              "NONE"
+          ],
+          "watchStatus": "NEVER_WATCHED",
+          "textEvidence": [
+              {
+                  "key": "UNKNOWN|81679967_TAGS|en-CA",
+                  "text": "Mind-Bending, Offbeat, Fantasy TV, Notable Soundtrack, Ghosts, Critically Acclaimed, Based on a Comic, Suspenseful, Detectives, Teen, Mystery",
+                  "__typename": "TagList"
+              }
+          ],
+          "isAvailable": true,
+          "isPlayable": true,
+          "availabilityStartTime": "2024-04-25T07:00:00.000Z",
+          "unplayableCauses": [],
+          "isInPlaylist": true,
+          "isInRemindMeList": false,
+          "playlistActions": [
+              "DELETE_FROM_PLAYLIST"
+          ],
+          "unifiedEntityId": "Video:81679967",
+          "thumbRating": "THUMBS_UNRATED",
+          "supportsInteractiveExperiences": false,
+          "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "latestYear": 2024,
+          "matchScore": {
+              "isNewForPvr": false,
+              "matchPercent": 94,
+              "__typename": "VideoMatchScore"
+          },
+          "numSeasonsLabel": "8 Episodes",
+          "seasons": {
+              "totalCount": 1,
+              "__typename": "SeasonsConnection"
+          },
+          "contentAdvisory": {
+              "boardId": 69,
+              "boardName": "NFLX",
+              "certificationRatingId": 997,
+              "maturityLevel": 1000,
+              "maturityDescription": "Recommended for ages 18 and up",
+              "certificationValue": "18+",
+              "i18nReasonsText": "violence, sex, language, suicide",
+              "videoSpecificRatingReason": null,
+              "reasons": [
+                  {
+                      "iconId": 985,
+                      "level": "",
+                      "text": "violence",
+                      "__typename": "ContentAdvisoryReason"
+                  },
+                  {
+                      "iconId": 986,
+                      "level": "",
+                      "text": "sex",
+                      "__typename": "ContentAdvisoryReason"
+                  },
+                  {
+                      "iconId": 988,
+                      "level": "",
+                      "text": "language",
+                      "__typename": "ContentAdvisoryReason"
+                  },
+                  {
+                      "iconId": 7803,
+                      "level": "",
+                      "text": "suicide",
+                      "__typename": "ContentAdvisoryReason"
+                  }
+              ],
+              "__typename": "ContentAdvisory"
+          },
+          "playbackBadges": [
+              "VIDEO_HD",
+              "OFFLINE_DOWNLOAD_AVAILABLE",
+              "VIDEO_SD",
+              "AUDIO_FIVE_DOT_ONE",
+              "AUDIO_ASSISTIVE",
+              "TEXT_CLOSED_CAPTIONS"
+          ],
+          "mostLikedMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "taglineMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "thumbsRating": "THUMBS_UNRATED",
+          "boxart": {
+              "key": "sdp|0342ee10-eacc-11ee-ad76-0e3b544c8177|en|dNL|81679968",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRrKl9CHHbhjHhLiEpgSuMzWwrtzNAwN9GeNpQxcs8vkzL2Ffd16eRS44j-QUcc8AgACVBicZQe2xnmMrrZbDC16lxRCb1U3lYVBMPHKtyNMFCw7hm-N79k8Nac5dOG1H7Hw.jpg?r=fd6",
+              "width": 342,
+              "height": 192,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "boxartHighRes": {
+              "key": "sdp|0342ee10-eacc-11ee-ad76-0e3b544c8177|en|dNL|81679968",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYJ1groJ5Ik5SJ4kjeKG6iWXmPbcC9JngBqj4qmwoWfVu9GaUQZT5fCQJzGwSoPl-GB4n_ITQBwYHnvjVdIuFO6vWyjdUwdR948SPqsPeSI93tGUy2LEyuhSEJri3vreGlvxCw.jpg?r=fd6",
+              "width": 665,
+              "height": 375,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "liveNow": null,
+          "logoArtwork": {
+              "key": "LOGO_BRANDED_HORIZONTAL|1c5d25f0-5297-11ee-97e2-0ea0d301f1db:6bc1ad90-7e71-11e9-a86a-0ef4f0f37a06|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABcdGZmJAqHO_Gd6ejovVQl-5nCLfvGvzDQK4oP47ZMXcS0pY6QANZu-XEubMr6vDt8uUcGxcN1p2VaXKnPsfrgr6lYVPYPq_YgX6eU59IU9s7pZWVjoeM0zfbOUO4hUfDVmaoOxU6I7mg_cyrU6zIGDieBcg0-KIo4VSlfKKXwIr8CyRkrAP.webp?r=371",
+              "width": 625,
+              "height": 250,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "storyArt": {
+              "key": "StoryArt|7ba46da0-f6ae-11ee-a2fb-12a0f24e3e0f|en|dNt|81679968",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTqYd2FwXdiqjJb7HO_tnRSFcymi6nKDbhuh_67HDI8Gq6-qNGOvdT48KDdXD41c_JFCZg3fIkZ4qQ2WfmYJ7_srKA30tZkYuVts.webp?r=b8a",
+              "width": 848,
+              "height": 477,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0.5742,
+                  "y": 0.3088,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "promoVideo": {
+              "id": 81713622,
+              "computeId": "browse|81713622|AE|dNL",
+              "offset": 0,
+              "video": {
+                  "videoId": 81713622,
+                  "__typename": "Supplemental"
+              },
+              "__typename": "PromoVideo"
+          }
+      },
+      {
+          "videoId": 81153116,
+          "title": "Onimusha",
+          "contentWarning": null,
+          "nextLiveEvent": null,
+          "__typename": "Show",
+          "currentEpisode": {
+              "videoId": 81186836,
+              "title": "Demon",
+              "number": 1,
+              "hideEpisodeNumbers": false,
+              "parentSeason": {
+                  "videoId": 81186817,
+                  "number": 1,
+                  "title": "Onimusha",
+                  "numberLabel": "",
+                  "hideEpisodeNumbers": false,
+                  "__typename": "Season"
+              },
+              "badges": [
+                  "NONE"
+              ],
+              "__typename": "Episode",
+              "watchStatus": "NEVER_WATCHED",
+              "runtimeSec": 2188,
+              "bookmark": {
+                  "position": null,
+                  "interactivePlaybackProgressPercentage": null,
+                  "__typename": "VideoBookmark"
+              },
+              "interactiveVideoData": {
+                  "interactiveSummaryFeatures": null,
+                  "__typename": "InteractiveVideoData"
+              }
+          },
+          "badges": [
+              "NONE"
+          ],
+          "watchStatus": "NEVER_WATCHED",
+          "textEvidence": [
+              {
+                  "key": "UNKNOWN|81153116_TAGS|en-CA",
+                  "text": "Imaginative, Exciting, Action Anime, Samurai, 17th Century, Japanese, Based on a Video Game, Zombies, TV",
+                  "__typename": "TagList"
+              }
+          ],
+          "isAvailable": true,
+          "isPlayable": true,
+          "availabilityStartTime": "2023-11-02T07:00:00.000Z",
+          "unplayableCauses": [],
+          "isInPlaylist": true,
+          "isInRemindMeList": false,
+          "playlistActions": [
+              "DELETE_FROM_PLAYLIST"
+          ],
+          "unifiedEntityId": "Video:81153116",
+          "thumbRating": "THUMBS_UNRATED",
+          "supportsInteractiveExperiences": false,
+          "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "latestYear": 2023,
+          "matchScore": {
+              "isNewForPvr": false,
+              "matchPercent": 95,
+              "__typename": "VideoMatchScore"
+          },
+          "numSeasonsLabel": "8 Episodes",
+          "seasons": {
+              "totalCount": 1,
+              "__typename": "SeasonsConnection"
+          },
+          "contentAdvisory": {
+              "boardId": 69,
+              "boardName": "NFLX",
+              "certificationRatingId": 997,
+              "maturityLevel": 1000,
+              "maturityDescription": "Recommended for ages 18 and up",
+              "certificationValue": "18+",
+              "i18nReasonsText": "violence",
+              "videoSpecificRatingReason": null,
+              "reasons": [
+                  {
+                      "iconId": 985,
+                      "level": "",
+                      "text": "violence",
+                      "__typename": "ContentAdvisoryReason"
+                  }
+              ],
+              "__typename": "ContentAdvisory"
+          },
+          "playbackBadges": [
+              "VIDEO_HD",
+              "OFFLINE_DOWNLOAD_AVAILABLE",
+              "VIDEO_SD",
+              "AUDIO_FIVE_DOT_ONE",
+              "TEXT_CLOSED_CAPTIONS"
+          ],
+          "mostLikedMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "taglineMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "thumbsRating": "THUMBS_UNRATED",
+          "boxart": {
+              "key": "sdp|97a4b3d0-5c1b-11ee-895b-0a4d7b25abe3|en|dNL|81186817",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaFCT4rHUmmTHOFbGVDLPtRsVARLGXDezUccpQ0toeCb7I7-e0gWgeQ6pT7RjeCe5c7wAyvX-bLKoD6vauXYhTeAgE6gaxp6qN_6SrlE8Gg0c8LHsVXyXop4SdmuhnI9ZRcA.jpg?r=174",
+              "width": 342,
+              "height": 192,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "boxartHighRes": {
+              "key": "sdp|97a4b3d0-5c1b-11ee-895b-0a4d7b25abe3|en|dNL|81186817",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfH968TXwzb7y9ZiZXCaLNJFT289PwB6AC38MPjnRtVmeP6pI3vaVjYVBfHb4GabGOaCtp320CtqyKrdhJ8_ACcMtSc36g2WRA6R0d7esZ5CYvOSRqr-fULim9UdOtY_LWMTkQ.jpg?r=174",
+              "width": 665,
+              "height": 375,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "liveNow": null,
+          "logoArtwork": {
+              "key": "LOGO_BRANDED_HORIZONTAL|bc524ed0-4b7d-11ee-987f-0a2089b129db:6bc1ad90-7e71-11e9-a86a-0ef4f0f37a06|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfpYI0Zpd4xidsSrRlyDOd13i5-meFfcwK80Ru4P46Fo2WIwOjszq-TcCEQFjgpAZeg1bY6OK0G7ZlXvMrC6V2Z_SXU6tYF1u9hOcO9pRhsqad69ckxn4COBX6-gfdjm5Fwf22MDmrXIItADPpYaM-fxFVuZ6YtMmgQQFckbG5-nukNnMKmt.webp?r=afb",
+              "width": 625,
+              "height": 250,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "storyArt": {
+              "key": "StoryArt|a33c9700-60dd-11ee-a1c6-0e432be7e5e9|en|dNt|81186817",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABc-0nSbRKcil6Vtbs0Eoc6jSwJG1txcOhpX_WcYxHMmagZvsaWJU7CKPxrSY0pWkfxugik2xsTRR2RjNqZMAyxzZbJrauHoZGAYf.webp?r=f45",
+              "width": 848,
+              "height": 477,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0.5,
+                  "y": 0.6222,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "promoVideo": {
+              "id": 81716595,
+              "computeId": "browse|81716595|AE|dNL",
+              "offset": 0,
+              "video": {
+                  "videoId": 81716595,
+                  "__typename": "Supplemental"
+              },
+              "__typename": "PromoVideo"
+          }
+      },
+      {
+          "videoId": 81502688,
+          "title": "Youth of May",
+          "contentWarning": null,
+          "nextLiveEvent": null,
+          "__typename": "Show",
+          "currentEpisode": {
+              "videoId": 81609261,
+              "title": "Episode 1",
+              "number": 1,
+              "hideEpisodeNumbers": false,
+              "parentSeason": {
+                  "videoId": 81609260,
+                  "number": 1,
+                  "title": "Limited Series",
+                  "numberLabel": "S1",
+                  "hideEpisodeNumbers": false,
+                  "__typename": "Season"
+              },
+              "badges": [
+                  "NONE"
+              ],
+              "__typename": "Episode",
+              "watchStatus": "NEVER_WATCHED",
+              "runtimeSec": 4041,
+              "bookmark": {
+                  "position": null,
+                  "interactivePlaybackProgressPercentage": null,
+                  "__typename": "VideoBookmark"
+              },
+              "interactiveVideoData": {
+                  "interactiveSummaryFeatures": null,
+                  "__typename": "InteractiveVideoData"
+              }
+          },
+          "badges": [
+              "NONE"
+          ],
+          "watchStatus": "NEVER_WATCHED",
+          "textEvidence": [
+              {
+                  "key": "UNKNOWN|81502688_TAGS|en-CA",
+                  "text": "Nostalgic, Bittersweet, Drama, Fight the System, 1980s, Korean, Historical, Emotional, Politics, TV",
+                  "__typename": "TagList"
+              }
+          ],
+          "isAvailable": true,
+          "isPlayable": true,
+          "availabilityStartTime": "2022-07-19T20:00:00.000Z",
+          "unplayableCauses": [],
+          "isInPlaylist": true,
+          "isInRemindMeList": false,
+          "playlistActions": [
+              "DELETE_FROM_PLAYLIST"
+          ],
+          "unifiedEntityId": "Video:81502688",
+          "thumbRating": "THUMBS_UNRATED",
+          "supportsInteractiveExperiences": false,
+          "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "latestYear": 2021,
+          "matchScore": {
+              "isNewForPvr": false,
+              "matchPercent": 95,
+              "__typename": "VideoMatchScore"
+          },
+          "numSeasonsLabel": "Limited Series",
+          "seasons": {
+              "totalCount": 1,
+              "__typename": "SeasonsConnection"
+          },
+          "contentAdvisory": {
+              "boardId": 69,
+              "boardName": "NFLX",
+              "certificationRatingId": 925,
+              "maturityLevel": 110,
+              "maturityDescription": "Recommended for ages 16 and up",
+              "certificationValue": "16+",
+              "i18nReasonsText": "violence, suicide",
+              "videoSpecificRatingReason": null,
+              "reasons": [
+                  {
+                      "iconId": 985,
+                      "level": "",
+                      "text": "violence",
+                      "__typename": "ContentAdvisoryReason"
+                  },
+                  {
+                      "iconId": 7803,
+                      "level": "",
+                      "text": "suicide",
+                      "__typename": "ContentAdvisoryReason"
+                  }
+              ],
+              "__typename": "ContentAdvisory"
+          },
+          "playbackBadges": [
+              "VIDEO_HD",
+              "OFFLINE_DOWNLOAD_AVAILABLE",
+              "VIDEO_SD"
+          ],
+          "mostLikedMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "taglineMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "thumbsRating": "THUMBS_UNRATED",
+          "boxart": {
+              "key": "sdp|fbd90f10-e7c6-11ec-88e9-0e408020b1c3|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSnQdBxZS6Dq9JFBNhM8nmS8ZcQQ9ZXa89ZUktnQ8TrZ00EAZlEEdbR0PSpr0nDjUjW5m46h67lYjmjYeX9f2WXqhs6DTodL43Q.webp?r=ad2",
+              "width": 342,
+              "height": 192,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "boxartHighRes": {
+              "key": "sdp|fbd90f10-e7c6-11ec-88e9-0e408020b1c3|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd28xYuUB3BniR8QXWQgH2Loi6vb3_hTh_SRLcLVKk39E0y0sJqjLI5S3SX31Gaix5GwAjqLufXZVD__cf3sVdX0fu-FFKyarg9v.webp?r=ad2",
+              "width": 665,
+              "height": 375,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "liveNow": null,
+          "logoArtwork": {
+              "key": "LOGO_BRANDED_HORIZONTAL|cc1b12f1-e7c6-11ec-9ce9-0eae14c7094f|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABcr8b4tplMxGqcAo6PQnoNEozNCSqgRglFR_4ZAdxI1YkrAniuo78pJKtUUzvHhx7UQJbiIV888-Scc4AYq-RIAYwIPoc4CNVflM9-s8EE4.webp?r=7e8",
+              "width": 625,
+              "height": 250,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "storyArt": {
+              "key": "StoryArt|b72f47c0-e7c7-11ec-8c87-0ae09bb549d1|ko",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbvW6mJiAHwliNAKZ7-Y_E5J6q0NP2rrh_9WW6qd4pJZ0JII83ae2B5jQVAmXYGNjD9xKDLECEE_wtr-PA2fMMCQx-Psph7SsuiE.webp?r=6ec",
+              "width": 848,
+              "height": 477,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0.5695,
+                  "y": 0.1806,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "promoVideo": {
+              "id": 81615523,
+              "computeId": "browse|81615523|AE|dNL",
+              "offset": 0,
+              "video": {
+                  "videoId": 81615523,
+                  "__typename": "Supplemental"
+              },
+              "__typename": "PromoVideo"
+          }
+      },
+      {
+          "videoId": 81716080,
+          "title": "My Demon",
+          "contentWarning": null,
+          "nextLiveEvent": null,
+          "__typename": "Show",
+          "currentEpisode": {
+              "videoId": 81716082,
+              "title": "Living in the Mist",
+              "number": 1,
+              "hideEpisodeNumbers": false,
+              "parentSeason": {
+                  "videoId": 81716081,
+                  "number": 1,
+                  "title": "Limited Series",
+                  "numberLabel": "",
+                  "hideEpisodeNumbers": false,
+                  "__typename": "Season"
+              },
+              "badges": [
+                  "NONE"
+              ],
+              "__typename": "Episode",
+              "watchStatus": "NEVER_WATCHED",
+              "runtimeSec": 4144,
+              "bookmark": {
+                  "position": null,
+                  "interactivePlaybackProgressPercentage": null,
+                  "__typename": "VideoBookmark"
+              },
+              "interactiveVideoData": {
+                  "interactiveSummaryFeatures": null,
+                  "__typename": "InteractiveVideoData"
+              }
+          },
+          "badges": [
+              "NONE"
+          ],
+          "watchStatus": "NEVER_WATCHED",
+          "textEvidence": [
+              {
+                  "key": "UNKNOWN|81716080_TAGS|en-CA",
+                  "text": "Intimate, Romantic, Comedy, Demons, Korean, Opposites Attract, TV",
+                  "__typename": "TagList"
+              }
+          ],
+          "isAvailable": true,
+          "isPlayable": true,
+          "availabilityStartTime": "2023-11-24T14:30:00.000Z",
+          "unplayableCauses": [],
+          "isInPlaylist": true,
+          "isInRemindMeList": false,
+          "playlistActions": [
+              "DELETE_FROM_PLAYLIST"
+          ],
+          "unifiedEntityId": "Video:81716080",
+          "thumbRating": "THUMBS_UNRATED",
+          "supportsInteractiveExperiences": false,
+          "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "latestYear": 2023,
+          "matchScore": {
+              "isNewForPvr": false,
+              "matchPercent": 98,
+              "__typename": "VideoMatchScore"
+          },
+          "numSeasonsLabel": "16 Episodes",
+          "seasons": {
+              "totalCount": 1,
+              "__typename": "SeasonsConnection"
+          },
+          "contentAdvisory": {
+              "boardId": 69,
+              "boardName": "NFLX",
+              "certificationRatingId": 925,
+              "maturityLevel": 110,
+              "maturityDescription": "Recommended for ages 16 and up",
+              "certificationValue": "16+",
+              "i18nReasonsText": "violence, suicide, self-harm",
+              "videoSpecificRatingReason": null,
+              "reasons": [
+                  {
+                      "iconId": 985,
+                      "level": "",
+                      "text": "violence",
+                      "__typename": "ContentAdvisoryReason"
+                  },
+                  {
+                      "iconId": 7803,
+                      "level": "",
+                      "text": "suicide",
+                      "__typename": "ContentAdvisoryReason"
+                  },
+                  {
+                      "iconId": 7804,
+                      "level": "",
+                      "text": "self-harm",
+                      "__typename": "ContentAdvisoryReason"
+                  }
+              ],
+              "__typename": "ContentAdvisory"
+          },
+          "playbackBadges": [
+              "VIDEO_HD",
+              "OFFLINE_DOWNLOAD_AVAILABLE",
+              "VIDEO_SD"
+          ],
+          "mostLikedMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "taglineMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "thumbsRating": "THUMBS_UNRATED",
+          "boxart": {
+              "key": "sdp|30d03f00-8207-11ee-bf60-12c403e90c85|en|dNL|81716081",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQyOMsGjDjv5n-WV1SpbvviJHfOExx8KOV2EL1g-CmvvNj9D3PXz33K0h0ruNHIWrEUiWIM3uThL3qUKhB7QQvzqCn0foRnNZYyLZBwDs9dXipPJnJ8CcySb4FQPCHVrGkwK.jpg?r=54b",
+              "width": 342,
+              "height": 192,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "boxartHighRes": {
+              "key": "sdp|30d03f00-8207-11ee-bf60-12c403e90c85|en|dNL|81716081",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXMVGNYhzS7SwYljphB2qzrsI1bfvEdK_H-TL1IgdAQhapV7gB05fLu1ME2Ug7KNr7nF4jjVn0wVURtjXSfaGnxW0SIMSxmcmtN2v_2_DLmSuUqIaf9uy5VXRzcDX0CXN8XC4A.jpg?r=54b",
+              "width": 665,
+              "height": 375,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "liveNow": null,
+          "logoArtwork": {
+              "key": "LOGO_BRANDED_HORIZONTAL|4885d3e0-6d52-11ee-bdb3-0a2b61bdd1db:6bc1ad90-7e71-11e9-a86a-0ef4f0f37a06|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABZBq_Ot2-PTn-o3JaxfVWgZ321O6V3aXoev6qc4H05FZ9ByN1VeViERcHSGG8t6_zCEiyOeFFxtn2XYdCwxUj-fvBQo7Rq5GXjrY5PXfuovsD1zfnD1Jmxiet3ocxJu2Hkorja6M6ftXMJmNrJzYeVe8KrG2sWu0Plgi9fh8lctcAYlC1cpR.webp?r=bc3",
+              "width": 625,
+              "height": 250,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "storyArt": {
+              "key": "StoryArt|d023c090-8207-11ee-a39e-12ebd4a356a3|en|dNt|81716081",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVW5CKrUzHTy7seG7UXeS29jxy51mFDAV300MjCRp24GSzewOko_s9KThd21Dh1OXndcfXs8fv5CY_K_RombM37QXzaVC9GZoIyx.webp?r=bc2",
+              "width": 848,
+              "height": 477,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0.6231,
+                  "y": 0.411,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "promoVideo": {
+              "id": 81737638,
+              "computeId": "browse|81737638|AE|dNL",
+              "offset": 0,
+              "video": {
+                  "videoId": 81737638,
+                  "__typename": "Supplemental"
+              },
+              "__typename": "PromoVideo"
+          }
+      },
+      {
+          "videoId": 81313229,
+          "title": "Rurouni Kenshin: The Beginning",
+          "contentWarning": null,
+          "liveEvent": null,
+          "__typename": "Movie",
+          "badges": [
+              "NONE"
+          ],
+          "watchStatus": "NEVER_WATCHED",
+          "runtimeSec": 8289,
+          "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+          },
+          "textEvidence": [
+              {
+                  "key": "UNKNOWN|81313229_TAGS|en-CA",
+                  "text": "Rousing, Exciting, Asian Action, Samurai, Japanese, Based on Manga, Action & Adventure, Movie",
+                  "__typename": "TagList"
+              }
+          ],
+          "isAvailable": true,
+          "isPlayable": true,
+          "availabilityStartTime": "2021-07-30T07:00:00.000Z",
+          "unplayableCauses": [],
+          "interactiveVideoData": {
+              "interactiveSummaryFeatures": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "isInPlaylist": true,
+          "isInRemindMeList": false,
+          "playlistActions": [
+              "DELETE_FROM_PLAYLIST"
+          ],
+          "unifiedEntityId": "Video:81313229",
+          "thumbRating": "THUMBS_UNRATED",
+          "supportsInteractiveExperiences": false,
+          "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+          },
+          "latestYear": 2021,
+          "matchScore": {
+              "isNewForPvr": false,
+              "matchPercent": 88,
+              "__typename": "VideoMatchScore"
+          },
+          "displayRuntimeSec": 8289,
+          "contentAdvisory": {
+              "boardId": 69,
+              "boardName": "NFLX",
+              "certificationRatingId": 997,
+              "maturityLevel": 1000,
+              "maturityDescription": "Recommended for ages 18 and up",
+              "certificationValue": "18+",
+              "i18nReasonsText": "violence",
+              "videoSpecificRatingReason": null,
+              "reasons": [
+                  {
+                      "iconId": 985,
+                      "level": "",
+                      "text": "violence",
+                      "__typename": "ContentAdvisoryReason"
+                  }
+              ],
+              "__typename": "ContentAdvisory"
+          },
+          "playbackBadges": [
+              "VIDEO_HD",
+              "OFFLINE_DOWNLOAD_AVAILABLE",
+              "VIDEO_SD",
+              "AUDIO_FIVE_DOT_ONE",
+              "TEXT_CLOSED_CAPTIONS"
+          ],
+          "mostLikedMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "taglineMessages": [
+              {
+                  "tagline": "",
+                  "typedClassification": "REGULAR",
+                  "__typename": "TaglineMessage"
+              }
+          ],
+          "thumbsRating": "THUMBS_UNRATED",
+          "boxart": {
+              "key": "sdp|63b02ff0-df54-11eb-a419-0edf837c8143|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUvhfdrsU2QnTLW8FIzzx5WcSX-AMA8HEMTU6we2XQKVMWvNS3bvqs3XS92L1Sw97Mg6P6M27rbjvkK9Jj-r-7OKXg46Ac3EuSiOWWXzoidzqubSjxeoIIJK3yOzO3FV-IkB.jpg?r=8e2",
+              "width": 342,
+              "height": 192,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "boxartHighRes": {
+              "key": "sdp|63b02ff0-df54-11eb-a419-0edf837c8143|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUkuDGqZMEq369pAfZJ6FhQOy9KFo4YZa2BV0AnmpSL5AS685MpSPDivSHEPTv21-Z1fU_nkdoBqrg4hIyMqePzVfNqo3MGw8hprBiI7kI1CFdH7X95qTCi7VAjve2wrI92sDQ.jpg?r=8e2",
+              "width": 665,
+              "height": 375,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "liveNow": null,
+          "logoArtwork": {
+              "key": "LOGO_BRANDED_HORIZONTAL|fa6757d0-ca3b-11eb-b140-0a10493ff521:2f1a8d60-7e55-11e9-a790-12828b20a2f0|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABcCyeuULUtl2_pLxTwTihCEsmhzpmenVBPcHAIUYJipfZ3b89Tp-zuwSrgq2IPZEKu2wr0h_MJwgQUMIsyeGIdQsphrUWgl0-c4IXQwsrooSIjGZCNOET_fv51skeFdEz9vYQEGDZUTIhF2Q1mAzyAi8p2xaEQ9ppC2GnlNzRffNX280P8uj.webp?r=c47",
+              "width": 625,
+              "height": 250,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0,
+                  "y": 0,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "storyArt": {
+              "key": "StoryArt|e85c0150-deb6-11eb-b5df-0afd000bbedb|en",
+              "url": "https://occ-0-8002-1432.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVglQoHvg_Ad2zbgerMAFrhX0jwqZ6w5xEPuvV4KJPWc4YBRzbwunVyXhUiJZQtbLhbo1G44mxXucgH15t-1lBxXyKeydXF0H1Z3.webp?r=634",
+              "width": 848,
+              "height": 477,
+              "available": true,
+              "status": "RESOLVED",
+              "focalPoint": {
+                  "x": 0.3698,
+                  "y": 0.3843,
+                  "__typename": "Point"
+              },
+              "__typename": "Image"
+          },
+          "promoVideo": {
+              "id": 81602839,
+              "computeId": "browse|81602839|AE|dNL",
+              "offset": 0,
+              "video": {
+                  "videoId": 81602839,
+                  "__typename": "Supplemental"
+              },
+              "__typename": "PromoVideo"
+          }
+      }
+  ]
+}
