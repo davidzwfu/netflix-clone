@@ -9,7 +9,7 @@ https://netflix-ui-clone-4f91a5b14bcb.herokuapp.com
 
 
 
-## Setup
+## Setup locally
 
 ```bash
 npm install
