@@ -11,6 +11,8 @@ https://netflix-ui-clone-4f91a5b14bcb.herokuapp.com
 
 ## Setup locally
 
+Requires Node.js version 18+
+
 ```bash
 npm install
 
