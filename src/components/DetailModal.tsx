@@ -33,10 +33,10 @@ export default function DetailModal({
     boxShadow: 'none',
     ...!enterPosition && { opacity: 0 },
     ...enterPosition && { 
-      transformOrigin: '50% 0%',
       transform: `scale(${enterPosition.width / 920})`,
       translate: `${enterPosition.x - (window.innerWidth / 2) + (enterPosition.width / 2)}px calc(${enterPosition.y}px - 2em)`,
     },
+    ...exitPosition && { transformOrigin: '50% 0%' },
   }
 
   const transitionStyles: any = {

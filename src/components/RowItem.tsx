@@ -31,6 +31,7 @@ export default function RowItem({ item, number }: { item: any, number?: number }
       <div className="row-item__container" ref={elementRef}
         onMouseEnter={() => setIsHovering(true)} 
         onMouseLeave={() => setIsHovering(false)}
+        onClick={() => setShowDetailModal(true)}
       >
         {number && <NumberSvg number={number} />}
         <div className="row-item__boxart">
