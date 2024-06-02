@@ -209,11 +209,11 @@ ul.splide__pagination {
   object-fit: cover;
   aspect-ratio: 16 / 9;
   border-radius: 6px 6px 0 0;
-  background: #000;
 }
 
 .modal__img--placeholder {
   position: absolute;
+  background: #000;
 }
 
 .modal-info {
