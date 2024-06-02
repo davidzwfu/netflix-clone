@@ -57,7 +57,7 @@ export default function RowItem({ item, number }: { item: any, number?: number }
       setShowModal={setShowDetailModal} 
       item={item}
       fade={!!number}
-      enterPosition={modalRef.current?.getBoundingClientRect()} 
+      enterPosition={(modalRef.current ?? elementRef.current)?.getBoundingClientRect()} 
       exitPosition={elementRef.current?.getBoundingClientRect()} 
     />
   </>
