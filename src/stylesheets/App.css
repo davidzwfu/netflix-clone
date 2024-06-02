@@ -1,0 +1,49 @@
+.navbar {
+  position: fixed;
+  inset: 0;
+  bottom: auto;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  padding: 0 4%;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .7) 10%, transparent);
+  transition: background-color .4s;
+  z-index: 2;
+}
+
+.navbar--scrolled {
+  background-color: #141414;
+}
+
+.navbar__logo {
+  display: flex;
+}
+
+.navbar__logo img {
+  height: 25px;
+  margin-right: 25px;
+}
+
+.navbar__menu {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-left: 18px;
+}
+
+.navbar__link {
+  align-items: center;
+  color: #e5e5e5;
+  display: flex;
+  height: 100%;
+  position: relative;
+  transition: color .4s;
+  font-size: 14px;
+}
+
+.navbar__link.active {
+  color: #fff;
+  font-weight: 500;
+}

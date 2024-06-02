@@ -1,13 +1,24 @@
+import './stylesheets/fonts.css'
+import './stylesheets/index.css'
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { RouterProvider, createBrowserRouter } from 'react-router-dom'
+import { Navigate, RouterProvider, createBrowserRouter } from 'react-router-dom'
 import App from './App.tsx'
-import './index.css'
+import Home from './pages/Home.tsx'
 
 const router = createBrowserRouter([
   {
-    path: "/",
     element: <App />,
+    children: [
+      {
+        path: '/',
+        element: <Navigate to='/browse' replace />,
+      },
+      {
+        path: '/browse',
+        element: <Home />,
+      },
+    ]
   },
 ]);
 

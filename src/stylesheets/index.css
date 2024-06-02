@@ -6,8 +6,12 @@
 }
 
 * {
-  font-family: Inter, sans-serif;
+  font-family: 'Netflix Sans', sans-serif;
   margin: 0;
+}
+
+html {
+  font-size: .75vw;
 }
 
 body {
@@ -15,9 +19,24 @@ body {
   min-height: 100vh;
   background: #141414;
   color: #fff;
-  font-size: .85vw;
+  overflow-y: scroll;
+}
+
+.body {
+  width: 100%;
+}
+
+#root {
+  padding-bottom: 8%;
 }
 
 a {
   text-decoration: none;
+}
+
+button {
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
 }

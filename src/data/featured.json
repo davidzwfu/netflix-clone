@@ -1,0 +1,1923 @@
+[
+  {
+    "videoId": 80232398,
+    "title": "Bridgerton",
+    "isAvailable": true,
+    "unifiedEntityId": "Video:80232398",
+    "synopsis": null,
+    "contextualSynopsis": {
+      "text": "As a new crop of debutantes yearns to become the brightest of the ball, a wallflower with a double life finds her light amid secrets and surprises.",
+      "evidenceKey": "synopsis|80232398-DEFAULT-Informative150--en|en|egO",
+      "__typename": "ContextualSynopsis"
+    },
+    "contentWarning": null,
+    "episodes": {
+      "edges": [
+        {
+          "cursor": "MA==",
+          "node": {
+            "videoId": 80232920,
+            "number": 1,
+            "title": "Diamond of the First Water",
+            "displayRuntimeSec": 3513,
+            "availabilityDateMessaging": null,
+            "isInRemindMeList": false,
+            "contextualSynopsis": {
+              "evidenceKey": "web_synopsis|80232920_INFORMATIVE|en",
+              "text": "Daphne debuts on London's marriage market as a new gossip sheet sets high society atwitter and Simon, the eligible Duke of Hastings, returns to town.",
+              "__typename": "ContextualSynopsis"
+            },
+            "artwork": {
+              "key": "MERCH_STILL|ea1bcd71-3346-11eb-a35a-0a3d052e6adf|en",
+              "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUaLwsTuPranINx5z4J9FkFG7zNroOvFKojcC--5CSMhGC5IZ1YTdGG0oAdoOUuCGYk2oOeloaRJyN7PHWkWNTEpjdnSoLNNenBjf_9gC-144N8L0f3rT7gA.jpg?r=4c7",
+              "width": 342,
+              "height": 192,
+              "__typename": "Image"
+            },
+            "__typename": "Episode",
+            "runtimeSec": 3513,
+            "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+            },
+            "badges": [
+              "NONE"
+            ],
+            "liveEvent": null,
+            "isPlayable": true,
+            "isAvailable": true,
+            "unplayableCauses": [],
+            "isInPlaylist": false,
+            "playlistActions": [],
+            "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+            "unifiedEntityId": "Video:80232920",
+            "supportsInteractiveExperiences": false,
+            "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+            }
+          },
+          "__typename": "EpisodeEdge"
+        },
+        {
+          "cursor": "MQ==",
+          "node": {
+            "videoId": 81044586,
+            "number": 2,
+            "title": "Shock and Delight",
+            "displayRuntimeSec": 3736,
+            "availabilityDateMessaging": null,
+            "isInRemindMeList": false,
+            "contextualSynopsis": {
+              "evidenceKey": "web_synopsis|81044586_INFORMATIVE|en",
+              "text": "Simon’s apparent courtship of Daphne angers her brother Anthony and threatens to ruin the arrangements he made. Marina opens up to a curious Penelope.",
+              "__typename": "ContextualSynopsis"
+            },
+            "artwork": {
+              "key": "MERCH_STILL|b32e9080-3347-11eb-9828-1211d0114505|en",
+              "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR8ePTk53fwShMLMm6SdWJr5lbvl99EK8D-NltU06SYpYWFVleoC_kGPZgK9oEH1SlYaTNXrY-OdpzUG2yeb7Iolb9zgdINPCN0-EwRBdKx0z5cPivMcPkAP.jpg?r=3a7",
+              "width": 342,
+              "height": 192,
+              "__typename": "Image"
+            },
+            "__typename": "Episode",
+            "runtimeSec": 3736,
+            "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+            },
+            "badges": [
+              "NONE"
+            ],
+            "liveEvent": null,
+            "isPlayable": true,
+            "isAvailable": true,
+            "unplayableCauses": [],
+            "isInPlaylist": false,
+            "playlistActions": [],
+            "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+            "unifiedEntityId": "Video:81044586",
+            "supportsInteractiveExperiences": false,
+            "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+            }
+          },
+          "__typename": "EpisodeEdge"
+        },
+        {
+          "cursor": "Mg==",
+          "node": {
+            "videoId": 81044587,
+            "number": 3,
+            "title": "Art of the Swoon",
+            "displayRuntimeSec": 3458,
+            "availabilityDateMessaging": null,
+            "isInRemindMeList": false,
+            "contextualSynopsis": {
+              "evidenceKey": "web_synopsis|81044587_INFORMATIVE|en",
+              "text": "After Daphne catches the eye of a royal suitor, she turns to Simon for relationship advice. Lady Featherington tries to browbeat Marina into marriage.",
+              "__typename": "ContextualSynopsis"
+            },
+            "artwork": {
+              "key": "MERCH_STILL|2fde5061-3349-11eb-b05b-0e391bfab9e5|en",
+              "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT-G4lqsiCP4zkBrA_2Dn-6T802kJ62Dt2XBOOIGZikPfEfrAeDJ0tkkm3d2NUGz7eVwWamma09axR8u4vNKBei-HcTmG5SkzmqriRlSjIZGVkcmso8xpIJF.jpg?r=0ad",
+              "width": 342,
+              "height": 192,
+              "__typename": "Image"
+            },
+            "__typename": "Episode",
+            "runtimeSec": 3458,
+            "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+            },
+            "badges": [
+              "NONE"
+            ],
+            "liveEvent": null,
+            "isPlayable": true,
+            "isAvailable": true,
+            "unplayableCauses": [],
+            "isInPlaylist": false,
+            "playlistActions": [],
+            "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+            "unifiedEntityId": "Video:81044587",
+            "supportsInteractiveExperiences": false,
+            "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+            }
+          },
+          "__typename": "EpisodeEdge"
+        },
+        {
+          "cursor": "Mw==",
+          "node": {
+            "videoId": 81044684,
+            "number": 4,
+            "title": "An Affair of Honor",
+            "displayRuntimeSec": 3707,
+            "availabilityDateMessaging": null,
+            "isInRemindMeList": false,
+            "contextualSynopsis": {
+              "evidenceKey": "web_synopsis|81044684_INFORMATIVE|en",
+              "text": "Daphne receives a stunning gift from Prince Friedrich but soon courts scandal at a ball. Eloise searches for clues to Lady Whistledown's identity.",
+              "__typename": "ContextualSynopsis"
+            },
+            "artwork": {
+              "key": "MERCH_STILL|5d68b8c0-334b-11eb-81eb-12ee5cb94159|en",
+              "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY6ODmW8bwM8GYDFgH6n7YhlVAv2kMgcmYtNf2BOcnzZ3djoBeAo2zygUq8qbmoMJiGyjE3uoDaEp8fr5KG6RDaJduiK3eOFsAhcO0N4tRxQc0yRfPgJl8-H.jpg?r=55c",
+              "width": 342,
+              "height": 192,
+              "__typename": "Image"
+            },
+            "__typename": "Episode",
+            "runtimeSec": 3707,
+            "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+            },
+            "badges": [
+              "NONE"
+            ],
+            "liveEvent": null,
+            "isPlayable": true,
+            "isAvailable": true,
+            "unplayableCauses": [],
+            "isInPlaylist": false,
+            "playlistActions": [],
+            "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+            "unifiedEntityId": "Video:81044684",
+            "supportsInteractiveExperiences": false,
+            "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+            }
+          },
+          "__typename": "EpisodeEdge"
+        },
+        {
+          "cursor": "NA==",
+          "node": {
+            "videoId": 81044685,
+            "number": 5,
+            "title": "The Duke and I",
+            "displayRuntimeSec": 3715,
+            "availabilityDateMessaging": null,
+            "isInRemindMeList": false,
+            "contextualSynopsis": {
+              "evidenceKey": "web_synopsis|81044685_INFORMATIVE|en",
+              "text": "To fend off rumors about their garden escapade, Simon and Daphne must make a personal appeal to the queen. Marina's wedlock scheme dismays Penelope.",
+              "__typename": "ContextualSynopsis"
+            },
+            "artwork": {
+              "key": "MERCH_STILL|8e5eadc0-334d-11eb-9386-0af9e61e9669|en",
+              "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfA2H9skXm2qaDWflDYTXOt1LNmPAbgvTcYynDR8kPrVhr0eYV5ouFUb2LTz1W_E5WqLh_9pmcF651nX59Z8yugZ1nOT-YmUb8gGqohFQgIM6P2iaPJrLR7j.jpg?r=906",
+              "width": 342,
+              "height": 192,
+              "__typename": "Image"
+            },
+            "__typename": "Episode",
+            "runtimeSec": 3715,
+            "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+            },
+            "badges": [
+              "NONE"
+            ],
+            "liveEvent": null,
+            "isPlayable": true,
+            "isAvailable": true,
+            "unplayableCauses": [],
+            "isInPlaylist": false,
+            "playlistActions": [],
+            "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+            "unifiedEntityId": "Video:81044685",
+            "supportsInteractiveExperiences": false,
+            "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+            }
+          },
+          "__typename": "EpisodeEdge"
+        },
+        {
+          "cursor": "NQ==",
+          "node": {
+            "videoId": 81044686,
+            "number": 6,
+            "title": "Swish",
+            "displayRuntimeSec": 3471,
+            "availabilityDateMessaging": null,
+            "isInRemindMeList": false,
+            "contextualSynopsis": {
+              "evidenceKey": "web_synopsis|81044686_INFORMATIVE|en",
+              "text": "On her honeymoon, Daphne discovers just how uninformed she is about the physical aspects of the marital bed. Colin comes to a decision about Marina.",
+              "__typename": "ContextualSynopsis"
+            },
+            "artwork": {
+              "key": "MERCH_STILL|431c1610-334b-11eb-9e8c-0eb9b48f6b31|en",
+              "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeXB6Ap_W5ygsC6VeXI6YLWvJZr_FE-KDN-96kmyDx4y1meQZPRT9_kXgFn7P4ctR4wMnbKLOf31WNbkUz1lcBqH5EQXlEtTP-DduuOyNL8JeKH-HYK_MJYm.jpg?r=fa0",
+              "width": 342,
+              "height": 192,
+              "__typename": "Image"
+            },
+            "__typename": "Episode",
+            "runtimeSec": 3471,
+            "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+            },
+            "badges": [
+              "NONE"
+            ],
+            "liveEvent": null,
+            "isPlayable": true,
+            "isAvailable": true,
+            "unplayableCauses": [],
+            "isInPlaylist": false,
+            "playlistActions": [],
+            "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+            "unifiedEntityId": "Video:81044686",
+            "supportsInteractiveExperiences": false,
+            "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+            }
+          },
+          "__typename": "EpisodeEdge"
+        },
+        {
+          "cursor": "Ng==",
+          "node": {
+            "videoId": 81044688,
+            "number": 7,
+            "title": "Oceans Apart",
+            "displayRuntimeSec": 3688,
+            "availabilityDateMessaging": null,
+            "isInRemindMeList": false,
+            "contextualSynopsis": {
+              "evidenceKey": "web_synopsis|81044688_INFORMATIVE|en",
+              "text": "Amid accusations of lies and betrayal, a rift forms between the newlyweds, while a deception of another kind could besmirch the Bridgerton family name.",
+              "__typename": "ContextualSynopsis"
+            },
+            "artwork": {
+              "key": "MERCH_STILL|67cfcc01-334a-11eb-b48c-0a302feb03d1|en",
+              "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABce5Yxjipyz4uEM3KX2FYEYeTf55CXKD6uEwIXKRjzVRkGgukQQwj2jKxhegPF0pzHZj4xkoZJVQ3MRet0P0Gp46EOJuZNcY4P6S6_E0LdmlPrcjlI4JKdZu.jpg?r=85c",
+              "width": 342,
+              "height": 192,
+              "__typename": "Image"
+            },
+            "__typename": "Episode",
+            "runtimeSec": 3688,
+            "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+            },
+            "badges": [
+              "NONE"
+            ],
+            "liveEvent": null,
+            "isPlayable": true,
+            "isAvailable": true,
+            "unplayableCauses": [],
+            "isInPlaylist": false,
+            "playlistActions": [],
+            "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+            "unifiedEntityId": "Video:81044688",
+            "supportsInteractiveExperiences": false,
+            "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+            }
+          },
+          "__typename": "EpisodeEdge"
+        },
+        {
+          "cursor": "Nw==",
+          "node": {
+            "videoId": 81044689,
+            "number": 8,
+            "title": "After the Rain",
+            "displayRuntimeSec": 4397,
+            "availabilityDateMessaging": null,
+            "isInRemindMeList": false,
+            "contextualSynopsis": {
+              "evidenceKey": "web_synopsis|81044689_INFORMATIVE|en",
+              "text": "The duke and duchess's season-ending ball signals a turning point for their marriage — and ushers in changes of fortune and fate to those around them.",
+              "__typename": "ContextualSynopsis"
+            },
+            "artwork": {
+              "key": "MERCH_STILL|aa89dbd0-334a-11eb-a823-0a95d4c27153|en",
+              "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdTwAx712afTZ3wlAWgDJbdLuy8MEarxKHMjkvwMPF_YgYXt02TILTcZFkz0-PQCurs_UmjdOpLFfXaq0Pin2ELtCLqkmFWgWYYyLRahTvdCWHAw4AznExTK.jpg?r=af2",
+              "width": 342,
+              "height": 192,
+              "__typename": "Image"
+            },
+            "__typename": "Episode",
+            "runtimeSec": 4397,
+            "bookmark": {
+              "position": null,
+              "interactivePlaybackProgressPercentage": null,
+              "__typename": "VideoBookmark"
+            },
+            "badges": [
+              "NONE"
+            ],
+            "liveEvent": null,
+            "isPlayable": true,
+            "isAvailable": true,
+            "unplayableCauses": [],
+            "isInPlaylist": false,
+            "playlistActions": [],
+            "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+            "unifiedEntityId": "Video:81044689",
+            "supportsInteractiveExperiences": false,
+            "interactivity": {
+              "features": null,
+              "__typename": "InteractiveVideoData"
+            }
+          },
+          "__typename": "EpisodeEdge"
+        }
+      ],
+      "pageInfo": {
+        "endCursor": "Nw==",
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "EpisodesConnection"
+    },
+    "cast": {
+      "edges": [
+        {
+          "cursor": "MA==",
+          "node": {
+            "personId": 30093985,
+            "name": "Adjoa Andoh",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MQ==",
+          "node": {
+            "personId": 2373,
+            "name": "Julie Andrews",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mg==",
+          "node": {
+            "personId": 30086933,
+            "name": "Lorraine Ashbourne",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mw==",
+          "node": {
+            "personId": 30023148,
+            "name": "Jonathan Bailey",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "NA==",
+          "node": {
+            "personId": 60030565,
+            "name": "Ruby Barker",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "NQ==",
+          "node": {
+            "personId": 40011014,
+            "name": "Sabrina Bartlett",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Ng==",
+          "node": {
+            "personId": 30202633,
+            "name": "Harriet Cains",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Nw==",
+          "node": {
+            "personId": 40193740,
+            "name": "Bessie Carter",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "OA==",
+          "node": {
+            "personId": 30181223,
+            "name": "Nicola Coughlan",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "OQ==",
+          "node": {
+            "personId": 30201097,
+            "name": "Phoebe Dynevor",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTA=",
+          "node": {
+            "personId": 20014155,
+            "name": "Ruth Gemmell",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTE=",
+          "node": {
+            "personId": 60017155,
+            "name": "Florence Hunt",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTI=",
+          "node": {
+            "personId": 40157530,
+            "name": "Claudia Jessie",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTM=",
+          "node": {
+            "personId": 20031547,
+            "name": "Ben Miller",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTQ=",
+          "node": {
+            "personId": 40093300,
+            "name": "Luke Newton",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTU=",
+          "node": {
+            "personId": 40085939,
+            "name": "Regé-Jean Page",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTY=",
+          "node": {
+            "personId": 60033564,
+            "name": "Golda Rosheuvel",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTc=",
+          "node": {
+            "personId": 60025510,
+            "name": "Luke Thompson",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTg=",
+          "node": {
+            "personId": 40101013,
+            "name": "Will Tilston",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTk=",
+          "node": {
+            "personId": 20001310,
+            "name": "Polly Walker",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjA=",
+          "node": {
+            "personId": 40215330,
+            "name": "Simone Ashley",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjE=",
+          "node": {
+            "personId": 60352239,
+            "name": "Charithra Chandran",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjI=",
+          "node": {
+            "personId": 30030279,
+            "name": "Shelley Conn",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjM=",
+          "node": {
+            "personId": 60033420,
+            "name": "Martins Imhangbe",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjQ=",
+          "node": {
+            "personId": 60015546,
+            "name": "Calam Lynch",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjU=",
+          "node": {
+            "personId": 30159161,
+            "name": "Rupert Young",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjY=",
+          "node": {
+            "personId": 60646260,
+            "name": "Victor Alli",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mjc=",
+          "node": {
+            "personId": 30092971,
+            "name": "Joanna Bobin",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mjg=",
+          "node": {
+            "personId": 30005040,
+            "name": "Dominic Coleman",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mjk=",
+          "node": {
+            "personId": 60249337,
+            "name": "Hannah Dodd",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MzA=",
+          "node": {
+            "personId": 60254164,
+            "name": "Daniel Francis",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MzE=",
+          "node": {
+            "personId": 40162585,
+            "name": "Jessica Madsen",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MzI=",
+          "node": {
+            "personId": 30201517,
+            "name": "Hannah New",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "PersonConnection"
+    },
+    "currentEpisode": {
+      "videoId": 80232920,
+      "title": "Diamond of the First Water",
+      "number": 1,
+      "hideEpisodeNumbers": false,
+      "parentSeason": {
+        "videoId": 80233012,
+        "number": 1,
+        "title": "Season 1",
+        "numberLabel": "S1",
+        "hideEpisodeNumbers": false,
+        "__typename": "Season",
+        "episodes": {
+          "totalCount": 8,
+          "__typename": "EpisodesConnection"
+        }
+      },
+      "badges": [
+        "NONE"
+      ],
+      "__typename": "Episode",
+      "synopsis": null,
+      "contextualSynopsis": {
+        "text": "Daphne debuts on London's marriage market as a new gossip sheet sets high society atwitter and Simon, the eligible Duke of Hastings, returns to town.",
+        "evidenceKey": "web_synopsis|80232920_INFORMATIVE|en",
+        "__typename": "ContextualSynopsis"
+      },
+      "watchStatus": "NEVER_WATCHED",
+      "runtimeSec": 3513,
+      "bookmark": {
+        "position": null,
+        "interactivePlaybackProgressPercentage": null,
+        "__typename": "VideoBookmark"
+      },
+      "interactiveVideoData": {
+        "interactiveSummaryFeatures": null,
+        "__typename": "InteractiveVideoData"
+      }
+    },
+    "__typename": "Show",
+    "moodTags": [
+      {
+        "id": 81347806,
+        "displayName": "Swoonworthy",
+        "isDisplayable": true,
+        "isMood": true,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100060,
+        "displayName": "Witty",
+        "isDisplayable": true,
+        "isMood": true,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 103310,
+        "displayName": "Period Piece",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 81263815,
+        "displayName": "Notable Soundtrack",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 2789698,
+        "displayName": "Keeping Secrets",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100095,
+        "displayName": "Critically Acclaimed",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100089,
+        "displayName": "Based on a Book",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100039,
+        "displayName": "Emotional",
+        "isDisplayable": true,
+        "isMood": true,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 103953,
+        "displayName": "Marriage",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 81331730,
+        "displayName": "Drama",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100183,
+        "displayName": "TV",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      }
+    ],
+    "genreTags": {
+      "edges": [
+        {
+          "cursor": "MA==",
+          "node": {
+            "genreId": 26056,
+            "name": "Romantic TV Dramas",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        },
+        {
+          "cursor": "MQ==",
+          "node": {
+            "genreId": 11714,
+            "name": "TV Dramas",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        },
+        {
+          "cursor": "Mg==",
+          "node": {
+            "genreId": 1819174,
+            "name": "TV Shows Based on Books",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        },
+        {
+          "cursor": "Mw==",
+          "node": {
+            "genreId": 12123,
+            "name": "Period Pieces",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        },
+        {
+          "cursor": "NA==",
+          "node": {
+            "genreId": 72404,
+            "name": "US TV Shows",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "GenreConnection"
+    },
+    "isPlayable": true,
+    "availabilityStartTime": "2020-12-25T08:00:00.000Z",
+    "unplayableCauses": [],
+    "latestYear": 2024,
+    "matchScore": {
+      "isNewForPvr": false,
+      "matchPercent": 95,
+      "__typename": "VideoMatchScore"
+    },
+    "numSeasonsLabel": "3 Seasons",
+    "seasons": {
+      "totalCount": 3,
+      "__typename": "SeasonsConnection"
+    },
+    "isInPlaylist": false,
+    "isInRemindMeList": false,
+    "playlistActions": [
+      "ADD_TO_PLAYLIST",
+      "ADD_REMIND_ME"
+    ],
+    "contentAdvisory": {
+      "boardId": 69,
+      "boardName": "NFLX",
+      "certificationRatingId": 997,
+      "maturityLevel": 1000,
+      "maturityDescription": "Recommended for ages 18 and up",
+      "certificationValue": "18+",
+      "i18nReasonsText": "sex, nudity, substances, sexual violence",
+      "videoSpecificRatingReason": null,
+      "reasons": [
+        {
+          "iconId": 986,
+          "level": "",
+          "text": "sex",
+          "__typename": "ContentAdvisoryReason"
+        },
+        {
+          "iconId": 987,
+          "level": "",
+          "text": "nudity",
+          "__typename": "ContentAdvisoryReason"
+        },
+        {
+          "iconId": 989,
+          "level": "",
+          "text": "substances",
+          "__typename": "ContentAdvisoryReason"
+        },
+        {
+          "iconId": 7802,
+          "level": "",
+          "text": "sexual violence",
+          "__typename": "ContentAdvisoryReason"
+        }
+      ],
+      "__typename": "ContentAdvisory"
+    },
+    "playbackBadges": [
+      "OFFLINE_DOWNLOAD_AVAILABLE",
+      "AUDIO_FIVE_DOT_ONE",
+      "TEXT_CLOSED_CAPTIONS",
+      "VIDEO_SD",
+      "VIDEO_HD",
+      "AUDIO_ASSISTIVE"
+    ],
+    "taglineMessages": [
+      {
+        "tagline": "Season 3 Returns June 13",
+        "typedClassification": "REGULAR",
+        "__typename": "TaglineMessage"
+      }
+    ],
+    "mostLikedMessages": [
+      {
+        "tagline": "New Episodes Coming June 13",
+        "typedClassification": "REGULAR",
+        "__typename": "TaglineMessage"
+      }
+    ],
+    "broadcastInfo": {
+      "distributorName": null,
+      "releaseDate": null,
+      "__typename": "BroadcastInfo"
+    },
+    "copyright": null,
+    "creators": {
+      "edges": [
+        {
+          "cursor": "MA==",
+          "node": {
+            "personId": 40197438,
+            "name": "Chris Van Dusen",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "PersonConnection"
+    },
+    "directors": {
+      "edges": [],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "PersonConnection"
+    },
+    "writers": {
+      "edges": [],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "PersonConnection"
+    },
+    "titleGroupMemberships": [
+      {
+        "id": "81643916",
+        "kind": "TITLE",
+        "title": "Bridgerton Collection",
+        "siblings": [
+          {
+            "videoId": 80232398,
+            "__typename": "Show"
+          },
+          {
+            "videoId": 81476183,
+            "__typename": "Show"
+          }
+        ],
+        "__typename": "TitleGroup"
+      }
+    ],
+    "similars": [
+      {
+        "videoId": 80217229,
+        "__typename": "Movie"
+      },
+      {
+        "videoId": 80024057,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81476183,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81008305,
+        "__typename": "Show"
+      }
+    ],
+    "ryanMurphyCollectionIds": [],
+    "shondaRhimesCollectionIds": [
+      81349039
+    ],
+    "supplementalVideosList": {
+      "edges": [
+        {
+          "node": {
+            "videoId": 81764761,
+            "__typename": "Supplemental"
+          },
+          "__typename": "SupplementalEdge"
+        },
+        {
+          "node": {
+            "videoId": 81757791,
+            "__typename": "Supplemental"
+          },
+          "__typename": "SupplementalEdge"
+        },
+        {
+          "node": {
+            "videoId": 81764760,
+            "__typename": "Supplemental"
+          },
+          "__typename": "SupplementalEdge"
+        },
+        {
+          "node": {
+            "videoId": 81275618,
+            "__typename": "Supplemental"
+          },
+          "__typename": "SupplementalEdge"
+        },
+        {
+          "node": {
+            "videoId": 81594675,
+            "__typename": "Supplemental"
+          },
+          "__typename": "SupplementalEdge"
+        },
+        {
+          "node": {
+            "videoId": 81189027,
+            "__typename": "Supplemental"
+          },
+          "__typename": "SupplementalEdge"
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "SupplementalsConnection"
+    },
+    "thumbsRating": "THUMBS_UNRATED",
+    "nextLiveEvent": null,
+    "watchStatus": "NEVER_WATCHED",
+    "billboard": {
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABT2QCBNRpfKvZjW4Gd66FV10aI81Dd8OITGMA0WAQ0_Kqc0V-Jr-MMtWxOqYJ_RGRPoVy3uoF_gE24YdGrgTyPE-ZPAyZGYS_6v5.webp?r=e6e"
+    },
+    "billboardLogo": {
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABRHICJdy2dd6EjfO0lVpotZxa9m9kG7socue-pPcK0fzkPvJOCQIefbnOQEVO60SLirWQJLYV5I1tpDkO1gwD40ol0VKHXa8QzUfmJ_mHZN6ayjYQracF8ZaBhQwRfk4WQenpGKfxk-j2sPIkI278ZUF4b3R_4t_0r_KG_YSLCZ7gVyuLLy3eA.webp?r=d31"
+    },
+    "boxart": {
+      "key": "sdp|69bf0ff0-0108-11ef-89a5-0e7afeebe813|en|ecp|81487890,BADGE|newcontent:new.season|en",
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUs7aMyVtayAVpg2KWi_kfPRqbJiNK8-L_zDpm4hV-X7fhF6pIuaL56VTNaz9q_WWkBeMrLwF31SB5O8C8d3yTcoE9u2mGMKjIv9Ngg8Da7pdEwl5KF57qExbt4kP8c1pshT_PC8cj0F8UlQaL-aZS9MUQNlboJ6j46m71cR1DCeXYC-hOHmb83IEyZZTKDF2S0PgnkvfVE3JinVbOM37dKFmG_H2bs1NWXH5pDcUvrMlt8294uRMSALNM_exJCaCQ7RJdC0J-hB34sOPK8JIf7-C30RiBG5Nq1vDeJl-gsT1wSX-2PJGj0dlLDEMpYHJzRxg5WeQloIVzL--1DYrHBpsi7kByhhQ522Uyxwx_DbPA.jpg?r=fae",
+      "width": 342,
+      "height": 192,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "x": 0,
+        "y": 0,
+        "__typename": "Point"
+      },
+      "__typename": "Image"
+    },
+    "boxartHighRes": {
+      "key": "sdp|69bf0ff0-0108-11ef-89a5-0e7afeebe813|en|ecp|81487890,BADGE|newcontent:new.season|en",
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeKjqjhqJE-PNHPg-IFzUck87bUbIonJadRC7c7kCp3FpF0w9rGrrMRaNI2qrKt6NbKDLwJRFa9Bi3vv9zFQ_F9ASKlgBGjph9hhhXs2vbkkfjEEto0JVqFIvGqRCsK9yM3ecpcCGna1PrvBAl82ROFaB3UL8X6rjwbBr6dhdHc2mLkCXNhd3gj13-CRoCD7SXKtCavBLOMNgOZ2waIp5dNhH4G9qU8XSBtzNA-isJz_TKj-l0cqsVCRWJPCT02e6CVcSIPnX36t_1PK5PY6esS0X26eCMHyTvcssR3j0r84Er0eT6ginZVf-oWE-Sxmxhrhl30W9LexF9tSRWKAevQcZZmh22CKrDADOCSQB8h6i4A.jpg?r=fae",
+      "width": 665,
+      "height": 375,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "x": 0,
+        "y": 0,
+        "__typename": "Point"
+      },
+      "__typename": "Image"
+    },
+    "liveNow": null,
+    "logoArtwork": {
+      "key": "LOGO_BRANDED_HORIZONTAL|56ec09c0-9478-11ee-bcef-0e85041f5a39:6bc1ad90-7e71-11e9-a86a-0ef4f0f37a06|en",
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXqEvST6tyEZJHTq_ug1NFMwwN2L1rr0mz32ueW8_vSWsob3A0WplM3iYNOko6aZeyFaNPUM0sDfHFaFFk1A5ayBBeXeFRU1mtU1E41CPCNLxVEQHcXmE1_fq7zKv7oPmlWI0Mv7vKxmnavMbL4-w3Tcb3RJe_xIsiuJxSA-H3JOC3CvSx4q.webp?r=101",
+      "width": 625,
+      "height": 250,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "x": 0,
+        "y": 0,
+        "__typename": "Point"
+      },
+      "__typename": "Image"
+    },
+    "storyArt": {
+      "key": "StoryArt|da75ce80-01a5-11ef-a611-0e77323f1109|en|egO|81487890",
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZ-zUOBHYyLyE24GsRVoZ9JAhXpy2XLECTOp47sVXXln6HykE6JkdXxao6DpF2GiCDTdduszbJShA7IAlNcwr5b0liT5swoALjlh.webp?r=272",
+      "width": 848,
+      "height": 477,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "x": 0.4995,
+        "y": 0.3606,
+        "__typename": "Point"
+      },
+      "__typename": "Image"
+    },
+    "supportsInteractiveExperiences": false,
+    "interactivity": {
+      "features": null,
+      "__typename": "InteractiveVideoData"
+    },
+    "thumbRating": "THUMBS_UNRATED"
+  },
+  {
+    "videoId": 81091393,
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "isAvailable": true,
+    "unifiedEntityId": "Video:81091393",
+    "synopsis": null,
+    "contextualSynopsis": {
+      "text": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
+      "evidenceKey": "synopsis|81091393-DEFAULT-Narrative--en|en|e2D",
+      "__typename": "ContextualSynopsis"
+    },
+    "contentWarning": null,
+    "cast": {
+      "edges": [
+        {
+          "cursor": "MA==",
+          "node": {
+            "personId": 40007513,
+            "name": "Natsuki Hanae",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MQ==",
+          "node": {
+            "personId": 40057123,
+            "name": "Akari Kito",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mg==",
+          "node": {
+            "personId": 30082602,
+            "name": "Hiro Shimono",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mw==",
+          "node": {
+            "personId": 30209992,
+            "name": "Yoshitsugu Matsuoka",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "NA==",
+          "node": {
+            "personId": 30019986,
+            "name": "Takahiro Sakurai",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "NQ==",
+          "node": {
+            "personId": 30086297,
+            "name": "Hochu Otsuka",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Ng==",
+          "node": {
+            "personId": 40005439,
+            "name": "Yuki Kaji",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Nw==",
+          "node": {
+            "personId": 40046103,
+            "name": "Ai Kakuma",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "OA==",
+          "node": {
+            "personId": 30100047,
+            "name": "Nobuhiko Okamoto",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "OQ==",
+          "node": {
+            "personId": 20013910,
+            "name": "Toshiyuki Morikawa",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTA=",
+          "node": {
+            "personId": 40078667,
+            "name": "Aoi Yuki",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTE=",
+          "node": {
+            "personId": 40012376,
+            "name": "Shiori Izawa",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTI=",
+          "node": {
+            "personId": 30011482,
+            "name": "Daisuke Namikawa",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTM=",
+          "node": {
+            "personId": 20033125,
+            "name": "Takumi Yamazaki",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTQ=",
+          "node": {
+            "personId": 20002088,
+            "name": "Hikaru Midorikawa",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTU=",
+          "node": {
+            "personId": 20002083,
+            "name": "Takehito Koyasu",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTY=",
+          "node": {
+            "personId": 30053983,
+            "name": "Satoshi Hino",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTc=",
+          "node": {
+            "personId": 30036539,
+            "name": "Daisuke Hirakawa",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTg=",
+          "node": {
+            "personId": 20034251,
+            "name": "Akira Ishida",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MTk=",
+          "node": {
+            "personId": 30021833,
+            "name": "Katsuyuki Konishi",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjA=",
+          "node": {
+            "personId": 30068752,
+            "name": "Miyuki Sawashiro",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjE=",
+          "node": {
+            "personId": 30208028,
+            "name": "Ryota Osaka",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjI=",
+          "node": {
+            "personId": 40161050,
+            "name": "Kengo Kawanishi",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjM=",
+          "node": {
+            "personId": 30081173,
+            "name": "Kana Hanazawa",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjQ=",
+          "node": {
+            "personId": 20030736,
+            "name": "Toshio Furukawa",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjU=",
+          "node": {
+            "personId": 30050679,
+            "name": "Kohsuke Toriumi",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MjY=",
+          "node": {
+            "personId": 20065859,
+            "name": "Koichi Yamadera",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mjc=",
+          "node": {
+            "personId": 30146416,
+            "name": "Saori Hayami",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mjg=",
+          "node": {
+            "personId": 20065219,
+            "name": "Kenichi Suzumura",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "Mjk=",
+          "node": {
+            "personId": 20002094,
+            "name": "Tomokazu Seki",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        },
+        {
+          "cursor": "MzA=",
+          "node": {
+            "personId": 20058583,
+            "name": "Tomokazu Sugita",
+            "__typename": "Person"
+          },
+          "__typename": "PersonEdge"
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "PersonConnection"
+    },
+    "currentEpisode": {
+      "videoId": 81091395,
+      "title": "Cruelty",
+      "number": 1,
+      "hideEpisodeNumbers": false,
+      "parentSeason": {
+        "videoId": 81091394,
+        "number": 1,
+        "title": "Tanjiro Kamado, Unwavering Resolve Arc",
+        "numberLabel": "S1",
+        "hideEpisodeNumbers": false,
+        "__typename": "Season",
+        "episodes": {
+          "totalCount": 26,
+          "__typename": "EpisodesConnection"
+        }
+      },
+      "badges": [
+        "NONE"
+      ],
+      "__typename": "Episode",
+      "synopsis": null,
+      "contextualSynopsis": {
+        "text": "After selling charcoal in town, Tanjiro returns home to find his whole family dead. Only his sister Nezuko has survived -- but she’s changed.",
+        "evidenceKey": "web_synopsis|81091395_INFORMATIVE|en",
+        "__typename": "ContextualSynopsis"
+      },
+      "watchStatus": "NEVER_WATCHED",
+      "runtimeSec": 1457,
+      "bookmark": {
+        "position": null,
+        "interactivePlaybackProgressPercentage": null,
+        "__typename": "VideoBookmark"
+      },
+      "interactiveVideoData": {
+        "interactiveSummaryFeatures": null,
+        "__typename": "InteractiveVideoData"
+      }
+    },
+    "__typename": "Show",
+    "moodTags": [
+      {
+        "id": 100046,
+        "displayName": "Imaginative",
+        "isDisplayable": true,
+        "isMood": true,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100041,
+        "displayName": "Exciting",
+        "isDisplayable": true,
+        "isMood": true,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100177,
+        "displayName": "Fantasy Anime",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100076,
+        "displayName": "Visually Striking",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 104778,
+        "displayName": "Demons",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 2228874,
+        "displayName": "1910s",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 81418687,
+        "displayName": "Japanese",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100095,
+        "displayName": "Critically Acclaimed",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 2867624,
+        "displayName": "Shounen",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100174,
+        "displayName": "Action Anime",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      },
+      {
+        "id": 100183,
+        "displayName": "TV",
+        "isDisplayable": true,
+        "isMood": false,
+        "__typename": "EntityTag"
+      }
+    ],
+    "genreTags": {
+      "edges": [
+        {
+          "cursor": "MA==",
+          "node": {
+            "genreId": 2867624,
+            "name": "Shounen Anime",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        },
+        {
+          "cursor": "MQ==",
+          "node": {
+            "genreId": 2653,
+            "name": "Action Anime",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        },
+        {
+          "cursor": "Mg==",
+          "node": {
+            "genreId": 81418687,
+            "name": "Japanese",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        },
+        {
+          "cursor": "Mw==",
+          "node": {
+            "genreId": 2075446,
+            "name": "Historical Anime",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        },
+        {
+          "cursor": "NA==",
+          "node": {
+            "genreId": 6721,
+            "name": "Anime Series",
+            "__typename": "Genre"
+          },
+          "__typename": "GenreEdge"
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": true,
+        "__typename": "PageInfo"
+      },
+      "__typename": "GenreConnection"
+    },
+    "isPlayable": true,
+    "availabilityStartTime": "2023-12-31T20:00:00.000Z",
+    "unplayableCauses": [],
+    "latestYear": 2021,
+    "matchScore": {
+      "isNewForPvr": false,
+      "matchPercent": 94,
+      "__typename": "VideoMatchScore"
+    },
+    "numSeasonsLabel": "3 Seasons",
+    "seasons": {
+      "totalCount": 3,
+      "__typename": "SeasonsConnection"
+    },
+    "isInPlaylist": false,
+    "isInRemindMeList": false,
+    "playlistActions": [
+      "ADD_TO_PLAYLIST"
+    ],
+    "contentAdvisory": {
+      "boardId": 69,
+      "boardName": "NFLX",
+      "certificationRatingId": 925,
+      "maturityLevel": 110,
+      "maturityDescription": "Recommended for ages 16 and up",
+      "certificationValue": "16+",
+      "i18nReasonsText": "violence, self-harm",
+      "videoSpecificRatingReason": null,
+      "reasons": [
+        {
+          "iconId": 985,
+          "level": "",
+          "text": "violence",
+          "__typename": "ContentAdvisoryReason"
+        },
+        {
+          "iconId": 7804,
+          "level": "",
+          "text": "self-harm",
+          "__typename": "ContentAdvisoryReason"
+        }
+      ],
+      "__typename": "ContentAdvisory"
+    },
+    "playbackBadges": [
+      "OFFLINE_DOWNLOAD_AVAILABLE",
+      "VIDEO_HD",
+      "TEXT_CLOSED_CAPTIONS",
+      "VIDEO_SD"
+    ],
+    "taglineMessages": [
+      {
+        "tagline": "",
+        "typedClassification": "REGULAR",
+        "__typename": "TaglineMessage"
+      }
+    ],
+    "mostLikedMessages": [
+      {
+        "tagline": "",
+        "typedClassification": "REGULAR",
+        "__typename": "TaglineMessage"
+      }
+    ],
+    "broadcastInfo": {
+      "distributorName": null,
+      "releaseDate": null,
+      "__typename": "BroadcastInfo"
+    },
+    "copyright": null,
+    "creators": {
+      "edges": [],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "PersonConnection"
+    },
+    "directors": {
+      "edges": [],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "PersonConnection"
+    },
+    "writers": {
+      "edges": [],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "PersonConnection"
+    },
+    "titleGroupMemberships": [
+      {
+        "id": "81495580",
+        "kind": "TITLE",
+        "title": "Demon Slayer: Kimetsu no Yaiba Collection",
+        "siblings": null,
+        "__typename": "TitleGroup"
+      }
+    ],
+    "similars": [
+      {
+        "videoId": 81236338,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 80237957,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 80217863,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 70300472,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81215625,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81144203,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 70204970,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 80050063,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 80107103,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81194158,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81153116,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81228573,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81281344,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 80063153,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81564899,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81281579,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 80191008,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81582442,
+        "__typename": "Movie"
+      },
+      {
+        "videoId": 81012048,
+        "__typename": "Movie"
+      },
+      {
+        "videoId": 81001988,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81243969,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 80175351,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 81249833,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 70142405,
+        "__typename": "Show"
+      },
+      {
+        "videoId": 80995578,
+        "__typename": "Show"
+      }
+    ],
+    "ryanMurphyCollectionIds": [],
+    "shondaRhimesCollectionIds": [],
+    "supplementalVideosList": {
+      "edges": [],
+      "pageInfo": {
+        "hasNextPage": false,
+        "__typename": "PageInfo"
+      },
+      "__typename": "SupplementalsConnection"
+    },
+    "thumbsRating": "THUMBS_UNRATED",
+    "nextLiveEvent": null,
+    "watchStatus": "NEVER_WATCHED",
+    "billboard": {
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcjRxFa4RMwiBewWATi4DwRla4regS-pGEzW8CK7VG4gwKg-JtKirFk1EBTW1c9d5mUPEnUq2wIc95MTXu1wiyezfn1dq8Jzp4k5.webp?r=f84"
+    },
+    "billboardLogo": {
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQ6SZkab5muGE6Oip_LHaL5ISY9bm_7Ig5iIA41aNqKF0dVR_aBgqf8Wg7p0aO8GoOlXJI2uQLieRKafGvSyQDbMeQCx46cAchBDu7qKoVry.webp?r=c4e"
+    },
+    "boxart": {
+      "key": "sdp|f4b454c0-530a-11ec-b6a7-0e21345dbb31|en",
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABddJJKQYI2BGkR2N9OR3zHxp-5zhpEUmNEOlkJLQ4I2xj0pKxFV_ilKupUFRUB9yqBWb2x3B4wix3CUjaBor3ub3aFz726Rm5IM.webp?r=043",
+      "width": 342,
+      "height": 192,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "x": 0,
+        "y": 0,
+        "__typename": "Point"
+      },
+      "__typename": "Image"
+    },
+    "boxartHighRes": {
+      "key": "sdp|f4b454c0-530a-11ec-b6a7-0e21345dbb31|en",
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaRpHup2yDkx-7ghR3JDn5esSyRiS1NWPcA7mhJH9fgnzo0jcpPG68EVaksqlDLmPZMRqkXNxg1Pt3j-FyjveJcITnXoQj1O3x22.webp?r=043",
+      "width": 665,
+      "height": 375,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "x": 0,
+        "y": 0,
+        "__typename": "Point"
+      },
+      "__typename": "Image"
+    },
+    "liveNow": null,
+    "logoArtwork": {
+      "key": "LOGO_BRANDED_HORIZONTAL|dc2f7911-4cd0-11ec-a5d1-0a6d71c4bee7|en",
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYi9LPCFr6ut_OjGLJYim3GCT0M6jEU0aG6S1E0xwcMSduNcZFYfDcoETvOTCjO_KDqQgZfdVnrCsxgLbtcH-SyfvILwmZI6xUEKP9wddW8.webp?r=30b",
+      "width": 625,
+      "height": 250,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "x": 0,
+        "y": 0,
+        "__typename": "Point"
+      },
+      "__typename": "Image"
+    },
+    "storyArt": {
+      "key": "StoryArt|4f4ad4f0-4923-11ec-b4f6-125f37be4c4d|en",
+      "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZs3kq3rMrnvWKU3ahV98yivmXv1mVI0N_9ygtdfrg0skFudUqQ8RLQMOhwY2S8MdLSJMWfFIo5B9y7hceAHO1DavGhd8G8fKso-.webp?r=a0d",
+      "width": 848,
+      "height": 477,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "x": 0.4667,
+        "y": 0.6333,
+        "__typename": "Point"
+      },
+      "__typename": "Image"
+    },
+    "supportsInteractiveExperiences": false,
+    "interactivity": {
+      "features": null,
+      "__typename": "InteractiveVideoData"
+    },
+    "thumbRating": "THUMBS_UNRATED"
+  }
+]

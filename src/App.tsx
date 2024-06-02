@@ -1,35 +1,52 @@
-import { useState } from 'react'
-import './App.css'
-import movies from './data/movies.json'
-import { formatDuration } from './libs/utils'
+import { CSSProperties, useEffect, useState } from 'react'
+import { NavLink, Outlet, ScrollRestoration } from 'react-router-dom'
+import netflixLogo from './assets/netflix.svg'
+import './stylesheets/App.css'
+import { useAtomValue } from 'jotai'
+import { lockScrollingAtom, scrollPositionAtom } from './libs/atoms'
 
 export default function App() {
-  console.log(movies)
+  const lockScrolling = useAtomValue(lockScrollingAtom)
+  const scrollPosition = useAtomValue(scrollPositionAtom)
+
+  useEffect(() => {
+    if (lockScrolling)
+      window.scrollTo({ top: 0, behavior: 'smooth' })
+    else if (scrollPosition > 0)
+      window.scrollTo({ top: scrollPosition })
+  }, [lockScrolling])
+
+  const style = {
+    position: 'fixed',
+    top: scrollPosition * -1,
+  } as CSSProperties
 
   return (
-    <>
-      <div className="row">
-        <div className="row-header">
-          <div className="row-header__title">My List</div>
-          <div className="row-header__more">Explore All</div>
-        </div>
-        <div className="row-container">
-          {movies.data.map(movie => {
-            return (
-              <div className="row-item" key={movie.videoId}>
-                <div className="row-item__container">
-                  <img className="row-item__boxart" src={movie.boxart.url} />
-                  <p className="">{formatDuration(movie.runtimeSec ?? 0)}</p>
-                  <div className="fallback__container">
-                    <p className="fallback__text">{movie.title}</p>
-                  </div>
-                </div>
-              </div>
+    <div className="body" style={lockScrolling ? style : undefined}>
+      <Nav />
+      <Outlet />
+      <ScrollRestoration />
+    </div>
+  )
+}
 
-            )
-          })}
-        </div>
+function Nav() {
+  const [isScrolled, setIsScrolled] = useState(false)
+
+  useEffect(() => {
+    window.addEventListener('scroll', () => {
+      setIsScrolled(window.scrollY > 0)
+    })
+  }, [])
+
+  return (
+    <nav className={`navbar ${isScrolled ? 'navbar--scrolled': ''}`}>
+      <NavLink to="/browse" className="navbar__logo">
+        <img src={netflixLogo} alt="Netflix" />
+      </NavLink>
+      <div className="navbar__menu">
+        <NavLink to="/browse" className="navbar__link">Home</NavLink>
       </div>
-    </>
+    </nav>
   )
 }
