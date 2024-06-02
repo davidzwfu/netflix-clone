@@ -29,6 +29,6 @@ export default function Billboard({ featuredItem }: { featuredItem: any }) {
         </div>
       </div>
     </div>
-    <DetailModal show={showDetailModal} setShow={setShowDetailModal} item={featuredItem} />
+    <DetailModal showModal={showDetailModal} setShowModal={setShowDetailModal} item={featuredItem} />
   </>
 }

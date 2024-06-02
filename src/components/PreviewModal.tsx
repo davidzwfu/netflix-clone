@@ -4,37 +4,37 @@ import { Transition } from 'react-transition-group'
 import { formatDuration } from '../libs/utils'
 
 export default forwardRef(function PreviewModal({ 
-  show, domRect, setIsHoveringModal, item, fade, showDetailModal, setShowDetailModal
+  showModal, enterPosition, setIsHoveringModal, item, fade, showDetailModal, setShowDetailModal
 }: { 
-  show: boolean
-  domRect: DOMRect 
-  setIsHoveringModal: Function
+  showModal: boolean
+  enterPosition: DOMRect 
+  setIsHoveringModal: (state: boolean) => void
   item: any
   fade?: boolean
   showDetailModal: boolean
-  setShowDetailModal: Function
+  setShowDetailModal: (state: boolean) => void
 }, ref: any) {
   const nodeRef = useRef<HTMLDivElement>(null)
   const [isInPlaylist, setIsInPlaylist] = useState(item.isInPlaylist)
   const [thumbsRating, setThumbsRating] = useState(item.thumbsRating)
 
-  let defaultStyle = {
+  const defaultStyle = {
     transition: 'all .25s ease',
-    top: domRect?.y + window.scrollY,
-    width: domRect?.width * 1.5,
+    top: enterPosition?.y + window.scrollY,
+    width: enterPosition?.width * 1.5,
     translate: 0,
     boxShadow: 'none',
     transform: 'scale(0.66667)',
     willChange: 'transform',
-    left: domRect?.x - (domRect?.width / 4),
+    left: enterPosition?.x - (enterPosition?.width / 4),
     transformOrigin: '50% 0',
     ...fade && { opacity: 0 },
-    ...domRect?.x < 100 && {
-      left: domRect?.x,
+    ...enterPosition?.x < 100 && {
+      left: enterPosition?.x,
       transformOrigin: '0 0',
     },
-    ...domRect?.x > (window.innerWidth - domRect?.width - 100) && {
-      left: domRect?.x - (domRect?.width / 2),
+    ...enterPosition?.x > (window.innerWidth - enterPosition?.width - 100) && {
+      left: enterPosition?.x - (enterPosition?.width / 2),
       transformOrigin: '100% 0',
     },
     ...showDetailModal && {
@@ -70,7 +70,7 @@ export default forwardRef(function PreviewModal({
   }
   
   return createPortal(
-    <Transition nodeRef={nodeRef} in={show} timeout={250} unmountOnExit>
+    <Transition nodeRef={nodeRef} in={showModal} timeout={250} unmountOnExit>
       {state => (
         <div ref={nodeRef} className="modal"
           onMouseEnter={() => setIsHoveringModal(true)} 

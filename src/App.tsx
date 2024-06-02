@@ -11,7 +11,7 @@ export default function App() {
 
   useEffect(() => {
     if (lockScrolling)
-      window.scrollTo({ top: 0, behavior: 'smooth' })
+      window.scrollTo({ top: 0 })
     else if (scrollPosition > 0)
       window.scrollTo({ top: scrollPosition })
   }, [lockScrolling])

@@ -285,6 +285,7 @@ ul.splide__pagination {
   margin: .8em 0;
   padding: .15em .5em .15em 0;
 }
+
 .modal-details__left .modal-info__metadata {
   margin: 0;
 }
@@ -397,12 +398,10 @@ ul.splide__pagination {
   gap: 8px;
   font-size: 14px;
 }
+
 .modal-rating__age {
   border: 1px solid hsla(0, 0%, 100%, .4);
   padding: 0 .4em;
-}
-.modal-rating__content {
-
 }
 
 .modal-details__right {
@@ -422,6 +421,7 @@ ul.splide__pagination {
   margin: .5em .5em .5em 0;
   word-break: break-word;
 }
+
 .modal-tags__label {
   color: #777;
 }
@@ -439,12 +439,14 @@ ul.splide__pagination {
   padding-bottom: 2em;
   min-height: 400px;
 }
+
 .modal-episodes__heading {
   font-size: 24px;
   font-weight: 500;
   margin-top: 32px;
   margin-bottom: 16px;
 }
+
 .modal-episodes__subheading {
   display: flex;
   align-items: baseline;
@@ -452,6 +454,7 @@ ul.splide__pagination {
   font-size: 13px;
   margin-bottom: 8px;
 }
+
 .modal-episodes__label {
   font-weight: 500;
 }

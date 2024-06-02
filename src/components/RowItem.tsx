@@ -14,7 +14,7 @@ export default function RowItem({ item, number }: { item: any, number?: number }
   const [showDetailModal, setShowDetailModal] = useState(false)
 
   useEffect(() => {
-    let timeout: NodeJS.Timeout
+    let timeout: number
     if (isHovering) {
       timeout = setTimeout(() => {
         setShowModal(true)
@@ -41,9 +41,9 @@ export default function RowItem({ item, number }: { item: any, number?: number }
         </div>
       </div>
     </SplideSlide>
-    <PreviewModal 
-      show={showModal} 
-      domRect={elementRef.current?.getBoundingClientRect()} 
+    <PreviewModal
+      showModal={showModal} 
+      enterPosition={elementRef.current?.getBoundingClientRect()} 
       setIsHoveringModal={setIsHoveringModal} 
       item={item}
       fade={!!number}
@@ -51,9 +51,9 @@ export default function RowItem({ item, number }: { item: any, number?: number }
       setShowDetailModal={setShowDetailModal} 
       ref={modalRef}
     />
-    <DetailModal 
-      show={showDetailModal} 
-      setShow={setShowDetailModal} 
+    <DetailModal
+      showModal={showDetailModal} 
+      setShowModal={setShowDetailModal} 
       item={item}
       fade={!!number}
       enterPosition={modalRef.current?.getBoundingClientRect()} 

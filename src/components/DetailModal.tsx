@@ -1,15 +1,15 @@
 import { useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
 import { Transition } from 'react-transition-group'
-import { formatDuration } from '../libs/utils'
 import { useSetAtom } from 'jotai'
+import { formatDuration } from '../libs/utils'
 import { lockScrollingAtom, scrollPositionAtom } from '../libs/atoms'
 
 export default function DetailModal({ 
-  show, setShow, item, fade, enterPosition, exitPosition
+  showModal, setShowModal, item, fade, enterPosition, exitPosition
 }: { 
-  show: boolean
-  setShow: Function
+  showModal: boolean
+  setShowModal: (state: boolean) => void
   item: any
   fade?: boolean
   enterPosition?: DOMRect 
@@ -21,13 +21,12 @@ export default function DetailModal({
   const setLockScrolling = useSetAtom(lockScrollingAtom)
   const setScrollPosition = useSetAtom(scrollPositionAtom)
 
-  let defaultStyle = {
+  const defaultStyle = {
     transition: 'all .45s ease',
-    // top: '2em',
-    top: `calc(2em + ${window.scrollY}px)`,
+    top: '2em',
     width: '920px',
     translate: 0,
-    transform: 'scale(0.7)',
+    transform: 'scale(0.8)',
     willChange: 'transform',
     left: 'auto',
     transformOrigin: '50% 25%',
@@ -42,21 +41,18 @@ export default function DetailModal({
 
   const transitionStyles: any = {
     entering: {
-      top: '2em',
       boxShadow: 'rgba(0, 0, 0, 0.75) 0px 3px 10px',
       transform: 'scale(1)',
       translate: '0 0',
       ...!enterPosition && { opacity: 1 },
     },
     entered:  {
-      top: '2em',
       boxShadow: 'rgba(0, 0, 0, 0.75) 0px 3px 10px',
       transform: 'scale(1)',
       translate: '0 0',
       ...!enterPosition && { opacity: 1 },
     },
     exiting: {
-      ...fade && { opacity: 0 },
       ...!exitPosition && {
         transition: 'all .25s ease-in',
         opacity: 0,
@@ -67,6 +63,7 @@ export default function DetailModal({
         transform: `scale(${exitPosition.width / 920})`,
         translate: `${exitPosition.x - (document.body.clientWidth / 2) + (exitPosition.width / 2)}px calc(${exitPosition.y}px - 2em)`,
       },
+      ...fade && { opacity: 0 },
     },
   }
 
@@ -87,8 +84,8 @@ export default function DetailModal({
   }
   
   return createPortal(
-    <Transition nodeRef={nodeRef} in={show} timeout={450} unmountOnExit
-      onEntering={() => lockScrolling()}
+    <Transition nodeRef={nodeRef} in={showModal} timeout={450} unmountOnExit
+      onEnter={() => lockScrolling()}
       onExited={() => setLockScrolling(false)}
     >
       {state => (
@@ -99,27 +96,32 @@ export default function DetailModal({
             ...state == 'entering' && { opacity: 1 },
             ...state == 'entered' && { opacity: 1 },
             ...state == 'exiting' && { transition: 'opacity .25s ease' },
-          }} onClick={() => setShow(false)}></div>
+          }} onClick={() => setShowModal(false)}></div>
           <div className="modal"
             style={{
               ...defaultStyle,
               ...transitionStyles[state],
             }}
           >
-            <button className="modal__close" title="close" onClick={() => setShow(false)}>
+            <button className="modal__close" title="close" onClick={() => setShowModal(false)}>
               <svg width="20" height="20" viewBox="0 0 24 24" role="img" data-icon="XStandard" aria-hidden="true"><path fillRule="evenodd" clipRule="evenodd" d="M10.5858 12L2.29291 3.70706L3.70712 2.29285L12 10.5857L20.2929 2.29285L21.7071 3.70706L13.4142 12L21.7071 20.2928L20.2929 21.7071L12 13.4142L3.70712 21.7071L2.29291 20.2928L10.5858 12Z" fill="currentColor"></path></svg>
             </button>
             <div className="modal-main">
-              <img className="modal__img modal__img--placeholder" src={item.boxart?.url} />
+              <img className="modal__img modal__img--placeholder" src={item.billboard?.url ?? item.boxart?.url} />
               <div className="modal-main__gradient" style={{
                 ...(exitPosition && state == 'exiting') && { 
                   opacity: 0,
                   transition: 'opacity .25s ease',
-                },
+                }
               }}>
                 <img className="modal__img" src={item.storyArt?.url} />
               </div>
-              <div className="modal-main__info">
+              <div className="modal-main__info" style={{
+                ...(exitPosition && state == 'exiting') && { 
+                  opacity: 0,
+                  transition: 'opacity .25s ease',
+                }
+              }}>
                 <img className="modal-main__logo" src={item.logoArtwork.url} alt={item.title} />
                 <div className="modal-info__controls">
                   <button className="billboard-info__btn billboard-info__btn--primary">
