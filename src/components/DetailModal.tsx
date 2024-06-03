@@ -53,6 +53,7 @@ export default function DetailModal({
       ...!enterPosition && { opacity: 1 },
     },
     exiting: {
+      position: 'fixed',
       ...!exitPosition && {
         transition: 'all .25s ease-in',
         opacity: 0,
@@ -184,6 +185,7 @@ export default function DetailModal({
                     <span className="modal-rating__age">{item.contentAdvisory?.certificationValue}</span>
                     <span className="modal-rating__content">{item.contentAdvisory?.i18nReasonsText}</span>
                   </div>
+                  <p className="modal-details__message">{item.taglineMessages?.at(0)?.tagline}</p>
                   <p className="modal-details__description">{item.contextualSynopsis?.text ?? '...'}</p>
                 </div>
                 <div className="modal-details__right">
@@ -203,12 +205,41 @@ export default function DetailModal({
                 </div>
               </div>
 
-              <div className="modal-episodes">
+              {/* <div className="modal-episodes">
                 <div className="modal-episodes__heading">Episodes</div>
                 <div className="modal-episodes__subheading">
                   <span className="modal-episodes__label">Season 1: </span>
                   <span className="modal-rating__age">{item.contentAdvisory?.certificationValue}</span>
                   <span className="modal-rating__content">{item.contentAdvisory?.i18nReasonsText}</span>
+                </div>
+              </div> */}
+
+              <div className="modal-about">
+                <h3 className="modal-about__heading">About <strong>{item.title}</strong></h3>
+                <div className="modal-tags">
+                  <span className="modal-tags__label">Creators: </span>
+                  {item.creators?.edges.map((el: any) => el.node?.name).join(', ') || '...'}
+                </div>
+                <div className="modal-tags">
+                  <span className="modal-tags__label">Cast: </span>
+                  {item.cast?.edges.map((el: any) => el.node?.name).join(', ') ?? '...'}
+                </div>
+                <div className="modal-tags">
+                  <span className="modal-tags__label">Genres: </span>
+                  {item.genreTags?.edges.map((el: any) => el.node?.name).join(', ') ?? '...'}
+                </div>
+                <div className="modal-tags">
+                  <span className="modal-tags__label">This show is: </span>
+                  {item.moodTags && item.moodTags?.map((el: any) => el.displayName).join(', ')}
+                  {item.textEvidence && item.textEvidence?.at(0)?.text.split(', ').join(', ')}
+                </div>
+                <div className="modal-tags">
+                  <span className="modal-tags__label">Maturity rating: </span>
+                  <div className="modal-rating">
+                    <span className="modal-rating__age">{item.contentAdvisory?.certificationValue}</span>
+                    <span className="modal-rating__content">{item.contentAdvisory?.i18nReasonsText}</span>
+                  </div>
+                  {item.contentAdvisory?.maturityDescription}
                 </div>
               </div>
             </div>

@@ -394,10 +394,11 @@ ul.splide__pagination {
 }
 
 .modal-rating {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 8px;
   font-size: 14px;
+  margin-bottom: .8em;
 }
 
 .modal-rating__age {
@@ -425,6 +426,13 @@ ul.splide__pagination {
 
 .modal-tags__label {
   color: #777;
+}
+
+.modal-details__message {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: .5em;
 }
 
 .modal-details__description {
@@ -458,6 +466,26 @@ ul.splide__pagination {
 
 .modal-episodes__label {
   font-weight: 500;
+}
+
+.modal-about {
+  padding: 0 3em;
+  padding-bottom: 2em;
+}
+
+.modal-about__heading {
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  margin-top: 48px;
+
+  strong {
+    font-weight: 500;
+  }
+}
+
+.modal-about .modal-rating {
+  margin: 0 1em;
 }
 
 .modal-body {
