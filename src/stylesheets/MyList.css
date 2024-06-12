@@ -1,0 +1,32 @@
+.my-list {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 4vw .4vw;
+  padding: 4%;
+  padding-top: 5rem;
+  margin-top: 3.5%;
+}
+
+@media screen and (max-width: 1399px) {
+  .my-list {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media screen and (max-width: 1099px) {
+  .my-list {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media screen and (max-width: 799px) {
+  .my-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 499px) {
+  .my-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

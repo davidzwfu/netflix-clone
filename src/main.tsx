@@ -5,6 +5,7 @@ import ReactDOM from 'react-dom/client'
 import { Navigate, RouterProvider, createBrowserRouter } from 'react-router-dom'
 import App from './App.tsx'
 import Home from './pages/Home.tsx'
+import MyList from './pages/MyList.tsx'
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
       {
         path: '/browse',
         element: <Home />,
+      },
+      {
+        path: '/my-list',
+        element: <MyList />,
       },
     ]
   },

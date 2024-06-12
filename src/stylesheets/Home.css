@@ -498,6 +498,7 @@ ul.splide__pagination {
   width: 100%;
   aspect-ratio: 15 / 6;
   user-select: none;
+  margin-top: -68px;
 }
 
 .billboard__wrapper {

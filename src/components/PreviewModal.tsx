@@ -2,6 +2,8 @@ import { forwardRef, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
 import { Transition } from 'react-transition-group'
 import { formatDuration } from '../libs/utils'
+import { useAtom } from 'jotai'
+import { myListAtom } from '../libs/atoms'
 
 export default forwardRef(function PreviewModal({ 
   showModal, enterPosition, setIsHoveringModal, item, fade, showDetailModal, setShowDetailModal
@@ -15,8 +17,8 @@ export default forwardRef(function PreviewModal({
   setShowDetailModal: (state: boolean) => void
 }, ref: any) {
   const nodeRef = useRef<HTMLDivElement>(null)
-  const [isInPlaylist, setIsInPlaylist] = useState(item.isInPlaylist)
   const [thumbsRating, setThumbsRating] = useState(item.thumbsRating)
+  const [myList, setMyList] = useAtom(myListAtom)
 
   const defaultStyle = {
     transition: 'all .25s ease',
@@ -94,13 +96,13 @@ export default forwardRef(function PreviewModal({
               <button className="modal-info__btn modal-info__btn--primary">
                 <svg width="24" height="24" viewBox="0 0 24 24" role="img" data-icon="PlayStandard" aria-hidden="true"><path d="M5 2.69127C5 1.93067 5.81547 1.44851 6.48192 1.81506L23.4069 11.1238C24.0977 11.5037 24.0977 12.4963 23.4069 12.8762L6.48192 22.1849C5.81546 22.5515 5 22.0693 5 21.3087V2.69127Z" fill="currentColor"></path></svg>
               </button>
-              {isInPlaylist ?
-                <button className="modal-info__btn" onClick={() => setIsInPlaylist(false)} key={0}>
+              {myList.find(x => x.videoId == item.videoId) ?
+                <button className="modal-info__btn" onClick={() => setMyList(myList.filter(x => x.videoId != item.videoId))} key={0}>
                   <svg width="24" height="24" viewBox="0 0 24 24" role="img" data-icon="CheckmarkStandard" aria-hidden="true"><path fillRule="evenodd" clipRule="evenodd" d="M21.2928 4.29285L22.7071 5.70706L8.70706 19.7071C8.51952 19.8946 8.26517 20 7.99995 20C7.73474 20 7.48038 19.8946 7.29285 19.7071L0.292847 12.7071L1.70706 11.2928L7.99995 17.5857L21.2928 4.29285Z" fill="currentColor"></path></svg>
                   <span className="tooltip">Remove from My List</span>
                 </button>
                 :
-                <button className="modal-info__btn" onClick={() => setIsInPlaylist(true)} key={1}>
+                <button className="modal-info__btn" onClick={() => setMyList([...myList, item])} key={1}>
                   <svg width="24" height="24" viewBox="0 0 24 24" role="img" data-icon="PlusStandard" aria-hidden="true"><path fillRule="evenodd" clipRule="evenodd" d="M11 11V2H13V11H22V13H13V22H11V13H2V11H11Z" fill="currentColor"></path></svg>
                   <span className="tooltip">Add to My List</span>
                 </button>
