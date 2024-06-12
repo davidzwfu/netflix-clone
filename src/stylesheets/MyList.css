@@ -19,18 +19,21 @@
 @media screen and (max-width: 1399px) {
   .my-list {
     grid-template-columns: repeat(5, 1fr);
+    row-gap: 4.5vw;
   }
 }
 
 @media screen and (max-width: 1099px) {
   .my-list {
     grid-template-columns: repeat(4, 1fr);
+    row-gap: 5.5vw;
   }
 }
 
 @media screen and (max-width: 799px) {
   .my-list {
     grid-template-columns: repeat(3, 1fr);
+    row-gap: 7.5vw;
   }
 }
 
