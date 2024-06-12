@@ -9,7 +9,7 @@ export default forwardRef(function PreviewModal({
   showModal, enterPosition, setIsHoveringModal, item, fade, showDetailModal, setShowDetailModal
 }: { 
   showModal: boolean
-  enterPosition: DOMRect 
+  enterPosition?: DOMRect
   setIsHoveringModal: (state: boolean) => void
   item: any
   fade?: boolean
@@ -19,6 +19,7 @@ export default forwardRef(function PreviewModal({
   const nodeRef = useRef<HTMLDivElement>(null)
   const [thumbsRating, setThumbsRating] = useState(item.thumbsRating)
   const [myList, setMyList] = useAtom(myListAtom)
+  if (!enterPosition) return
 
   const defaultStyle = {
     transition: 'all .25s ease',

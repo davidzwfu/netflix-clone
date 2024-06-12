@@ -7,6 +7,15 @@
   margin-top: 3.5%;
 }
 
+.row-item-exit {
+  opacity: 1;
+}
+
+.row-item-exit-active {
+  opacity: 0;
+  transition: opacity .45s ease;
+}
+
 @media screen and (max-width: 1399px) {
   .my-list {
     grid-template-columns: repeat(5, 1fr);

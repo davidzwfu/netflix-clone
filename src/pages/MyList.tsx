@@ -1,16 +1,28 @@
 import '../stylesheets/MyList.css'
-import { useAtomValue } from 'jotai'
-import { myListAtom } from '../libs/atoms'
+import { useAtomValue, useSetAtom } from 'jotai'
+import { CSSTransition, TransitionGroup } from 'react-transition-group'
+import { createRef, useEffect } from 'react'
+import { lockScrollingAtom, myListAtom } from '../libs/atoms'
 import MyListItem from '../components/MyListItem'
 
 export default function MyList() {
   const myList = useAtomValue(myListAtom)
+  const setLockScrolling = useSetAtom(lockScrollingAtom)
+
+  useEffect(() => {
+    setLockScrolling(false)
+  }, [myList])
 
   return <>
-    <div className="my-list">
+    <TransitionGroup className="my-list">
       {myList.map(item => {
-        return <MyListItem item={item} key={item.videoId} />
+        const nodeRef = createRef<HTMLDivElement>()
+        return (
+          <CSSTransition classNames="row-item" timeout={450} nodeRef={nodeRef} key={item.videoId}>
+            <MyListItem item={item} ref={nodeRef} />
+          </CSSTransition>
+        )
       })}
-    </div>
+    </TransitionGroup>
   </>
 }
