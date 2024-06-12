@@ -1089,6 +1089,13 @@
     "thumbsRating": "THUMBS_UNRATED",
     "nextLiveEvent": null,
     "watchStatus": "NEVER_WATCHED",
+    "textEvidence": [
+      {
+        "key": "UNKNOWN|80232398_TAGS|en-CA",
+        "text": "Swoonworthy, Witty, Period Piece, Notable Soundtrack, Keeping Secrets, Critically Acclaimed, Based on a Book, Emotional, Marriage, Drama, TV",
+        "__typename": "TagList"
+      }
+    ],
     "billboard": {
       "url": "https://occ-0-1167-1168.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABT2QCBNRpfKvZjW4Gd66FV10aI81Dd8OITGMA0WAQ0_Kqc0V-Jr-MMtWxOqYJ_RGRPoVy3uoF_gE24YdGrgTyPE-ZPAyZGYS_6v5.webp?r=e6e"
     },
