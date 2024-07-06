@@ -7,7 +7,7 @@ export default function Billboard({ featuredItem }: { featuredItem: any }) {
   return <>
     <div className="billboard">
       <div className="billboard__wrapper">
-        <img className="billboard__img" src={featuredItem.billboard?.url} alt={featuredItem.title} />
+        <img className="billboard__img" src={featuredItem.billboard?.url} alt={featuredItem.title} fetchPriority="high" />
         <div className="billboard-info">
           <img className="billboard-info__logo" src={featuredItem.billboardLogo?.url} alt={featuredItem.title} />
           <p className="billboard-info__text">{featuredItem.contextualSynopsis?.text}</p>
